@@ -5,6 +5,9 @@ theme = "anubis"
 enableRobotsTXT=true
 paginate = 3
 
+
+disqusShortname = "tabletopflore"
+
 [author]
 name = "Flore"
 email = "drmoonlington@gmail.com"
