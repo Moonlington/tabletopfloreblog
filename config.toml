@@ -1,0 +1,54 @@
+baseURL = 'www.tabletopflore.com'
+languageCode = 'en-us'
+title = "Flore's Insignificant Thoughts"
+theme = "anubis"
+enableRobotsTXT=true
+paginate = 3
+
+[author]
+name = "Flore"
+email = "drmoonlington@gmail.com"
+
+[params]
+author = "Flore"
+description = "Musings about Worldbuilding and TTRPGs"
+dateFormat = "2006-01-02"
+paginationSinglePost = true
+style = "dark-without-switcher"
+readMore = false
+
+[[params.social]]
+id = "github"
+name = "Moonlington"
+[[params.social]]
+id = "twitter"
+name = "FloreVEVO"
+[[params.social]]
+id = "twitch"
+name = "Flor3tta"
+
+[menu]
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 1
+
+[[menu.main]]
+identifier = "tags"
+name = "Tags"
+url = "/tags/"
+weight = 2
+
+[[menu.main]]
+name = "Archive"
+identifier = "archive"
+url = "/posts/"
+weight = 3
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+
+[markup.goldmark.renderer]
+unsafe = true
