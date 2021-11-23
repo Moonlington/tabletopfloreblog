@@ -1,4 +1,4 @@
-baseURL = 'www.tabletopflore.com'
+baseURL = ''
 languageCode = 'en-us'
 title = "Flore's Insignificant Thoughts"
 theme = "anubis"
