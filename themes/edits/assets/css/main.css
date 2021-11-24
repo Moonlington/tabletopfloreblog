@@ -86,7 +86,7 @@ a:hover,
 a:focus,
 a:active {
     color: var(--link-state-color);
-    border-bottom: 1px solid var(--link-state-border-color);
+    /* border-bottom: 1px solid var(--link-state-border-color); */
 }
 
 a:active,
