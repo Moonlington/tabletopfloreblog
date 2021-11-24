@@ -1,12 +1,12 @@
 ---
-title: "Pantheon of Elysium: More Deities, Story, and Culture"
+title: "Pantheon of Ae'thar: More Deities, Story, and Culture"
 date: "2021-08-04"
 categories: 
   - "dnd5e"
   - "ttrpg"
   - "worldbuilding"
 tags: 
-  - "elysium"
+  - "ae'thar"
   - "religion"
 ---
 
@@ -38,9 +38,9 @@ I'm pretty content with what I have now. I have five core deities that I want to
 
 So, here's my attempt at making a sort of creation myth for the world that attempts to incorporate the 'one good story' Dael Kingsmill talked about.
 
-_Long ago, nothing existed. Only Aleph existed. Aleph created the world of Elysium. A simple world. Aleph created the Wishgranter, a small building on the world which would grant anyone a wish, if they faced its challenges. The first to make a wish were two sisters. One saw the power in the physical power of mankind, while the other was fascinated by the secrets of the world. Then came a woman that accepted the wilderness for what it is and forgave it for what it could do. After her, a man made a wish. He was a father who valued family and community. The last to make a wish was a man who came alone._
+_Long ago, nothing existed. Only Aleph existed. Aleph created the world of Ae'thar. A simple world. Aleph created the Wishgranter, a small building on the world which would grant anyone a wish, if they faced its challenges. The first to make a wish were two sisters. One saw the power in the physical power of mankind, while the other was fascinated by the secrets of the world. Then came a woman that accepted the wilderness for what it is and forgave it for what it could do. After her, a man made a wish. He was a father who valued family and community. The last to make a wish was a man who came alone._
 
-_Long after their deaths, Aleph granted them divinity. They became gods of their own personal convictions. This also amplified their convictions, which created conflict. Aleph also granted a few other beings divinity after their wish came true. The deities made changes to the world, influencing people and making them more aligned with their ideals. Once each deity planted their own seed of conviction, Aleph barred the deities from Elysium, including himself. They were no longer able to influence the world in major ways. Some were furious, some were fine with it. Aleph then went into an eternal slumber._
+_Long after their deaths, Aleph granted them divinity. They became gods of their own personal convictions. This also amplified their convictions, which created conflict. Aleph also granted a few other beings divinity after their wish came true. The deities made changes to the world, influencing people and making them more aligned with their ideals. Once each deity planted their own seed of conviction, Aleph barred the deities from Ae'thar, including himself. They were no longer able to influence the world in major ways. Some were furious, some were fine with it. Aleph then went into an eternal slumber._
 
 ### More Thoughts
 
@@ -48,7 +48,7 @@ Now, you might say: “Flore, where's the 'Authority', 'Harbor', 'Purpose', and 
 
 ## A bit of Culture and Religion
 
-In this section, I want to explore some religious practices for Elysium. I still want to keep it simple and easy to understand, not just for myself, but also for my players. I was thinking of keeping it to maybe some commandments (think of paladin tenets). Chances are I might steal most commandments from deities already existing in D&D, since 'commandment writing' is not my strongsuit.
+In this section, I want to explore some religious practices for Ae'thar. I still want to keep it simple and easy to understand, not just for myself, but also for my players. I was thinking of keeping it to maybe some commandments (think of paladin tenets). Chances are I might steal most commandments from deities already existing in D&D, since 'commandment writing' is not my strongsuit.
 
 ### Solana, the Bright Queen
 
@@ -60,7 +60,7 @@ Her commandments would be something like: - Defend the weak, persecute those tha
 
 She represents discovery, magic, and knowledge. She would definitely encourage finding out the truth in everything, to leave no secrets untouched. Lunola is also the goddess of magic, so expanding your knowledge into the arcane in any way, shape, or form would be encouraged. Not only that, but she also encourages people to forge their own path.
 
-Her commandments would be: - Seize your own destiny by pursuing your passions. - Follow the echoes of lost magics, forgotten sites, and ancient art, for within these lie the deepest of Elysium's secrets. - Unmask those who would defy Lunola. Learn their secrets and unveil them to the world.
+Her commandments would be: - Seize your own destiny by pursuing your passions. - Follow the echoes of lost magics, forgotten sites, and ancient art, for within these lie the deepest of Ae'thar's secrets. - Unmask those who would defy Lunola. Learn their secrets and unveil them to the world.
 
 ### Rosaria, the Red Maiden
 
@@ -84,6 +84,6 @@ His commandments are: - Walk unbridled and untethered, forging new memories and 
 
 These three articles were a lot of fun to write. It might not be a lot of details written down for each deity, but that's not always necessary. I can always create when needed to. Like I said in my first article about pantheons and religion: Its always best to conserve your creative energy for when you need it, instead of expending it all on things you wont use.
 
-Besides that, did I do everything I wanted to do? No, there were things I would rather have expanded upon more, but then again, I'll do that when inspiration strikes me, so that I don't have to force myself to create. Overall, I think this is a great start to my worldbuilding in Elysium, and I will continue to expand upon the different facets of that world another time. I feel like the Magic: The Gathering system of the five conflicts really work well. It brings a lot more interest to not only the deities themselves, but what the denizens of your world believe in and uphold. As much as I like Dael Kingsmill's system, it clashes with what I already have envisioned, but still works really well on its own.
+Besides that, did I do everything I wanted to do? No, there were things I would rather have expanded upon more, but then again, I'll do that when inspiration strikes me, so that I don't have to force myself to create. Overall, I think this is a great start to my worldbuilding in Ae'thar, and I will continue to expand upon the different facets of that world another time. I feel like the Magic: The Gathering system of the five conflicts really work well. It brings a lot more interest to not only the deities themselves, but what the denizens of your world believe in and uphold. As much as I like Dael Kingsmill's system, it clashes with what I already have envisioned, but still works really well on its own.
 
 I have no idea what my next article is going to be, but we'll see when that comes up. Again, I appreciate every bit of feedback, and I would love to hear your thoughts about this miniseries about religion and pantheons. 'Til the next article!

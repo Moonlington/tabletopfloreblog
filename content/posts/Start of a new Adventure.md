@@ -11,7 +11,7 @@ My name is Flore, a 20 year old man living in the Netherlands, who has been play
 
 ## Why make this blog?
 
-Lately I've been spending a lot of time creating a lot of different worlds, like my dark and gloomy world of **Eden** for one of my D&D groups, and the much more fantastical world of **Elysium** for my other D&D group. (I have a couple of groups I DM.)
+Lately I've been spending a lot of time creating a lot of different worlds, like my dark and gloomy world of **Eden** for one of my D&D groups, and the much more fantastical world of **Ae'thar** for my other D&D group. (I have a couple of groups I DM.)
 
 While I could talk to my friends about any decisions and thoughts I have about these things. I can't really, y'know, write entire blog posts to my friends. They're not **that** engaged in my musings.
 

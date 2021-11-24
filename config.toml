@@ -50,8 +50,8 @@ url = "/categories/"
 weight = 3
 
 [[menu.main]]
-name = "Archive"
 identifier = "archive"
+name = "Archive"
 url = "/posts/"
 weight = 4
 

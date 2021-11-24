@@ -1,32 +1,32 @@
 ---
-title: "Pantheon of Elysium"
+title: "Pantheon of Ae'thar"
 date: "2021-07-31"
 categories: 
   - "dnd5e"
   - "ttrpg"
   - "worldbuilding"
 tags: 
-  - "elysium"
+  - "ae'thar"
   - "religion"
 ---
 
-Like I said in my last article, this article is going to be me trying to take the (arguably small amount of) knowledge I gained from writing that article and apply that to my new world of _Elysium_. I want to see what kind of system I want to use and what I want to focus on, and maybe work out some cultures and religions as well. As not everyone knows what Elysium is, I'll start by giving a small introduction to the world.
+Like I said in my last article, this article is going to be me trying to take the (arguably small amount of) knowledge I gained from writing that article and apply that to my new world of _Ae'thar_. I want to see what kind of system I want to use and what I want to focus on, and maybe work out some cultures and religions as well. As not everyone knows what Ae'thar is, I'll start by giving a small introduction to the world.
 
-## Quick intro to Elysium
+## Quick intro to Ae'thar
 
-Elysium is a world filled with wonder and fantasy. The world itself is an enormous expanse of ocean, with floating islands in the sky. Skyships are flying over the clouds, going from enormous floating cities to smaller villages on those floating islands. There are ruined civilizations that are either still floating through corrupted and dangerous clouds or have fallen and now lie at the bottom of the ocean.
+Ae'thar is a world filled with wonder and fantasy. The world itself is an enormous expanse of ocean, with floating islands in the sky. Skyships are flying over the clouds, going from enormous floating cities to smaller villages on those floating islands. There are ruined civilizations that are either still floating through corrupted and dangerous clouds or have fallen and now lie at the bottom of the ocean.
 
 ### Wishgranter
 
-The most interesting thing in Elysium is the _Wishgranter_, a colossal building floating above the ocean. It's an extremely challenging dungeon, but grants a wish at the end of it all. The Wishgranter has shaped the world to the way it is through many wishes. Every time someone makes a wish, the building grows larger, teleports away, and returns to a different place a few decades later.
+The most interesting thing in Ae'thar is the _Wishgranter_, a colossal building floating above the ocean. It's an extremely challenging dungeon, but grants a wish at the end of it all. The Wishgranter has shaped the world to the way it is through many wishes. Every time someone makes a wish, the building grows larger, teleports away, and returns to a different place a few decades later.
 
 ### Factions and Politics
 
-Many nations in Elysium want the power of the Wishgranter for themselves, which is why the return of the Wishgranter usually is a spark for war. Each nation and faction that inhabit these skylands have their wishes they want to fulfill, some for selfish reasons, some for the betterment of the world.
+Many nations in Ae'thar want the power of the Wishgranter for themselves, which is why the return of the Wishgranter usually is a spark for war. Each nation and faction that inhabit these skylands have their wishes they want to fulfill, some for selfish reasons, some for the betterment of the world.
 
 ### My View
 
-My vision for Elysium is a world that can house many differing campaigns. It could be a political campaign with intrigue and subterfuge. Perhaps it can house a campaign with a lot of exploration, finding the secrets of the world and its ancient civilizations. It could also focus on the Wishgranter itself, which could lead to a very dungeon-heavy campaign. Not only that, but it can also be a mix of these types. With my last world of _Eden_ being very dark and gloomy, I felt like I wanted to make something more fantasy, with some twists.
+My vision for Ae'thar is a world that can house many differing campaigns. It could be a political campaign with intrigue and subterfuge. Perhaps it can house a campaign with a lot of exploration, finding the secrets of the world and its ancient civilizations. It could also focus on the Wishgranter itself, which could lead to a very dungeon-heavy campaign. Not only that, but it can also be a mix of these types. With my last world of _Eden_ being very dark and gloomy, I felt like I wanted to make something more fantasy, with some twists.
 
 ## Designing The Pantheon
 
@@ -68,15 +68,15 @@ The last combination that is left over is Individualism and Mystery. A deity of 
 
 Solana, the Bright Queen, is the Goddess of Light, Justice, and War. She will represent might and retribution as themes. She is a pillar of justice and honor and is often symbolized by the bright sun in the sky. Generals in the military might align with Solana, and so might those that are not magically aligned as well. Believing in the strength that is inside you and never giving up are the most important commandments she has. A cleric worshiping Solana might take the Light, Order, or War domain.
 
-Lunola, the Lady of Magic, is the Goddess of Magic, Discovery, and Knowledge. She represents magic and discovery as themes. She clashes with Solana as she believes that knowledge and magic are what make people strong. All the magic in Elysium is possible of course thanks to Lunola. She encourages everyone to forge their path in history, and to choose, not be victim to fate. She is often symbolized by the moon in the sky at night, as it changes its phases and is opposite of the Sun. (Usually.) A cleric worshiping Lunola might take the Arcana, Knowledge, or Twilight domain.
+Lunola, the Lady of Magic, is the Goddess of Magic, Discovery, and Knowledge. She represents magic and discovery as themes. She clashes with Solana as she believes that knowledge and magic are what make people strong. All the magic in Ae'thar is possible of course thanks to Lunola. She encourages everyone to forge their path in history, and to choose, not be victim to fate. She is often symbolized by the moon in the sky at night, as it changes its phases and is opposite of the Sun. (Usually.) A cleric worshiping Lunola might take the Arcana, Knowledge, or Twilight domain.
 
-Rosaria, the Red Maiden, is the Goddess of the Wild, Love, and Nature. She represents wilderness and forgiveness. Symbolized by the red rose, she is beautiful and fragile, yet its thorns cannot be ignored. Her domain is the nature and weather of Elysium, which is often beautiful but can be dangerous. Kind of like love. (Sorta.) She clashes with Solana as she believes that forgiveness and acceptance is the true way of living and that revenge only breeds hatred. Rosaria believes that leaving the world untouched and letting the wilderness do its thing is better than shaping it to mankind's needs. Live together with nature, not sacrifice it for your own good. A cleric worshiping Rosaria might take the Nature, Life, or Tempest domain.
+Rosaria, the Red Maiden, is the Goddess of the Wild, Love, and Nature. She represents wilderness and forgiveness. Symbolized by the red rose, she is beautiful and fragile, yet its thorns cannot be ignored. Her domain is the nature and weather of Ae'thar, which is often beautiful but can be dangerous. Kind of like love. (Sorta.) She clashes with Solana as she believes that forgiveness and acceptance is the true way of living and that revenge only breeds hatred. Rosaria believes that leaving the world untouched and letting the wilderness do its thing is better than shaping it to mankind's needs. Live together with nature, not sacrifice it for your own good. A cleric worshiping Rosaria might take the Nature, Life, or Tempest domain.
 
-Veles, the Great Creator, is the God of Creation, Family, and Progress. Representing collectivism and civilization, he encourages creativity and innovation in people, not just for technology or magic, but also for culture and their traditions. He allies himself with Lunola in some ways that he wishes for Elysium's denizens to continue moving forward. Veles clashes with Rosaria in that Veles sees mankind's work on the land as commendable. It's taking what is there and making it better for everyone. He is often symbolized by a gear. A cleric that worships Veles might take the Forge or Order domain.
+Veles, the Great Creator, is the God of Creation, Family, and Progress. Representing collectivism and civilization, he encourages creativity and innovation in people, not just for technology or magic, but also for culture and their traditions. He allies himself with Lunola in some ways that he wishes for Ae'thar's denizens to continue moving forward. Veles clashes with Rosaria in that Veles sees mankind's work on the land as commendable. It's taking what is there and making it better for everyone. He is often symbolized by a gear. A cleric that worships Veles might take the Forge or Order domain.
 
 Kairos, the Mysterious, is the God of Secrets, Shadows, Mystery, and of Fate. He represents individualism and mystery. Symbolized by the four-pointed star, he represents all that is unknown in the world. The things people don't see, don't hear, and don't speak of. Lunola is often infatuated by the idea of uncovering the secrets Kairos holds. All the while, he encourages people to think for themselves, and keep the secrets they hold so dearly. The world is a dangerous place, you know? While Veles encourages everyone to work together, Kairos knows this only leads to compromise and not the _ideal_ outcome. A cleric worshiping Kairos might take the Knowledge or Trickery domain.
 
-Aleph, the Overgod, is the God of Gods. He created Elysium and its denizens. He also gave power to these five gods. After his work was done, he went into an eternal sleep. He isn't worshiped outright, but his influence still emanates throughout the world. He is symbolized by a singular closed eye.
+Aleph, the Overgod, is the God of Gods. He created Ae'thar and its denizens. He also gave power to these five gods. After his work was done, he went into an eternal sleep. He isn't worshiped outright, but his influence still emanates throughout the world. He is symbolized by a singular closed eye.
 
 #### My Thoughts So Far
 
