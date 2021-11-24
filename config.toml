@@ -1,7 +1,7 @@
 baseURL = 'https://www.tabletopflore.com'
 languageCode = 'en-us'
 title = "Flore's Insignificant Thoughts"
-theme = "anubis"
+theme = ["edits", "anubis"]
 enableRobotsTXT=true
 paginate = 3
 
