@@ -1,10 +1,10 @@
 :root {
-   /* light.css */ 
+    /* light.css */
     --font-color: #333;
     --bg-color: #fff;
 
-    --link-color:#1d60a3;
-    --link-state-color:#a31d1d;
+    --link-color: #1d60a3;
+    --link-state-color: #a31d1d;
     --link-state-border-color: rgba(163, 29, 29, .5);
 
     --thead-bg-color: lightgrey;
@@ -25,5 +25,5 @@
     --post-info-color: grey;
 
     --switcher-color: #fff;
-    --switcher-bg-color: #333; 
+    --switcher-bg-color: #333;
 }

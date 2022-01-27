@@ -1,24 +1,23 @@
 baseURL = 'https://www.tabletopflore.com'
+enableRobotsTXT = true
 languageCode = 'en-us'
-title = "Flore's Insignificant Thoughts"
-theme = ["edits", "anubis"]
-enableRobotsTXT=true
 paginate = 3
-
+theme = ["edits", "anubis"]
+title = "Flore's Insignificant Thoughts"
 
 disqusShortname = "tabletopflore"
 
 [author]
-name = "Flore"
 email = "drmoonlington@gmail.com"
+name = "Flore"
 
 [params]
 author = "Flore"
-description = "Musings about Worldbuilding and TTRPGs"
 dateFormat = "2006-01-02"
+description = "Musings about Worldbuilding and TTRPGs"
 paginationSinglePost = true
-style = "dark-without-switcher"
 readMore = false
+style = "dark-without-switcher"
 
 [[params.social]]
 id = "github"
@@ -54,6 +53,12 @@ identifier = "archive"
 name = "Archive"
 url = "/posts/"
 weight = 4
+
+[[menu.main]]
+identifier = "wiki"
+name = "Wiki"
+url = "/wiki/"
+weight = 5
 
 [taxonomies]
 category = "categories"

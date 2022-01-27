@@ -4,14 +4,10 @@
 {{ $light.Content }}
 
 {{ if eq site.Params.style "dark-without-switcher" }}
-:root {
-    {{ $dark.Content }}
-}
+{{ $dark.Content }}
 {{ else if eq site.Params.style "auto-without-switcher" }}
 @media (prefers-color-scheme: dark) {
-    :root {
-        {{ $dark.Content }}
-    }
+    {{ $dark.Content }}
 }
 {{else }}
 [data-theme="dark"] {
@@ -583,7 +579,7 @@ ul.language-select > li, ul.footer-menu > li {
 }
 
 .spoiler {
-    background-color: #eee;
+    background-color: var(--font-color);
     transition: 500ms ease-in-out;
 }
 

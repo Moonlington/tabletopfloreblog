@@ -1,27 +1,29 @@
-/* dark.css */ 
---font-color: #eee;
---bg-color: #212121;
+:root {
+    /* dark.css */
+    --font-color: #dcd5d4;
+    --bg-color: #0c0c0c;
 
---link-color:#599ada;
---link-state-color:#ff5858;
---link-state-border-color: rgba(238, 54, 54, 0.5);
+    --link-color: #d3090b;
+    --link-state-color: #be080a;
+    --link-state-border-color: rgba(238, 54, 54, 0.5);
 
---thead-bg-color: #343a40;
---table-border-color: lightgrey;
+    --thead-bg-color: #020202;
+    --table-border-color: lightgrey;
 
---nav-bg-color: #242424;
---nav-link-color: #b6b6b6;
+    --nav-bg-color: #6a0506;
+    --nav-link-color: #d3090b;
 
---pre-color: #333;
---pre-bg-color: #f1f1f1;
+    --pre-color: #333;
+    --pre-bg-color: #f1f1f1;
 
---bq-color: #ccc;
---hr-color: #333;
+    --bq-color: #e05354;
+    --hr-color: #be080a;
 
---pagination-bg-color: #373737;
---pagination-link-color: #b6b6b6;
+    --pagination-bg-color: #373737;
+    --pagination-link-color: #b6b6b6;
 
---post-info-color: grey;
+    --post-info-color: #d72223;
 
---switcher-color: #333;
---switcher-bg-color: #fff;
+    --switcher-color: #333;
+    --switcher-bg-color: #fff;
+}
