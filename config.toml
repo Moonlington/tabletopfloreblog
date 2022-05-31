@@ -2,6 +2,8 @@ baseURL = 'https://www.tabletopflore.com'
 enableRobotsTXT = true
 languageCode = 'en-us'
 paginate = 3
+refLinksErrorLevel = "WARNING"
+refLinksNotFoundURL = "404.md"
 theme = ["edits", "anubis"]
 title = "Flore's Insignificant Thoughts"
 
