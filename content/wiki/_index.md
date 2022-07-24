@@ -16,4 +16,5 @@ Welcome to the wiki for my newer content. My older stuff used to be up on [Xhori
 "Right, It's been a while, I changed a lot of stuff, dumped a lot of old stuff, created a lot of new stuff. Such is the life of a worldbuilder. Ae'thar has been a great project which I feel confident in. No more unnecessary fluff, no more info bloat. Just fantasy fun." - Flore, Jan 2022.
 
 ## Important Pages
-(Wiki is still under construction, hope to see you soon!)
+
+[[Important Information]]
