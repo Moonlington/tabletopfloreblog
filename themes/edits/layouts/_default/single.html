@@ -21,7 +21,7 @@
         {{ partial "post-info.html" . }}
     </article>
 
-    {{ if and (.Site.Params.paginationSinglePost) (ne .Type "page") }}
+    {{ if and (.Site.Params.paginationSinglePost) (and (ne .Type "page") (ne .Type "wiki")) }}
         {{ partial "post-pagination.html" . }}
     {{ end }}
 

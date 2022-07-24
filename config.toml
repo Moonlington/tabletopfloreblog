@@ -3,7 +3,7 @@ enableRobotsTXT = true
 languageCode = 'en-us'
 paginate = 3
 refLinksErrorLevel = "WARNING"
-refLinksNotFoundURL = "404.md"
+refLinksNotFoundURL = "/wiki/404"
 theme = ["edits", "anubis"]
 title = "Flore's Insignificant Thoughts"
 

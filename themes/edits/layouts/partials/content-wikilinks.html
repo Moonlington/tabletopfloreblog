@@ -1,13 +1,37 @@
 {{ $firstBracket := "\\[\\[" }}
 {{ $lastBracket := "\\]\\]" }}
 
-{{ $wikiregex := "\\[\\[([^/]+?)\\]\\]" }}
+{{ $wikiregexWithText := "\\[\\[([^\\]\\|\\r\\n]+?)\\|([^\\]\\|\\r\\n]+?)\\]\\]" }}
+{{ $wikiregex := "\\[\\[([^\\]\\|\\r\\n]+?)\\]\\]" }}
+
 {{ $page := .Page }}
 
+{{ $.Scratch.Add "content" .Content }}
+
+{{ $wikilinks := .Content | findRE $wikiregexWithText }}
+{{ range $wikilinks }}
+
+	{{ $content := . | replaceRE $wikiregexWithText "$1" }}
+	{{ $name := . | replaceRE $wikiregexWithText "$2"}}
+	{{ $content := $content | replaceRE "\\?" "\\?" }}
+
+	{{ $wikilink :=  printf "%s%s\\|%s%s" $firstBracket $content $name $lastBracket }}
+	
+	{{ $anchorized := $content | anchorize }}
+
+	{{ $rel := relref $page $anchorized }}
+	{{ if not (in $rel "/wiki/") }}
+		{{ $rel = "/wiki/404" }}
+	{{ end }}
+
+    {{ $link := printf "%s%s%s%s%s" "<a href=\"" $rel "\">" $name "</a>"  }}
+
+	
+	{{ $noteContent := $.Scratch.Get "content" | replaceRE $wikilink $link }}
+	{{ $.Scratch.Set "content" $noteContent }}
+{{ end }}
+
 {{ $wikilinks := .Content | findRE $wikiregex }}
-
-{{ $.Scratch.Add "content" .RawContent }}
-
 {{ range $wikilinks }}
 
 	{{ $content := . | replaceRE $wikiregex "$1" }}
@@ -18,10 +42,12 @@
 	{{ $anchorized := $content | anchorize }}
 
 	{{ $rel := relref $page $anchorized }}
+	{{ if not (in $rel "/wiki/") }}
+		{{ $rel = "/wiki/404" }}
+	{{ end }}
 
-  {{ $link := printf "%s%s%s%s%s" "<a href=\"" $rel "\">" $content "</a>"  }}
+    {{ $link := printf "%s%s%s%s%s" "<a href=\"" $rel "\">" $content "</a>"  }}
 
-	
 	{{ $noteContent := $.Scratch.Get "content" | replaceRE $wikilink $link }}
 	{{ $.Scratch.Set "content" $noteContent }}
 {{ end }}
