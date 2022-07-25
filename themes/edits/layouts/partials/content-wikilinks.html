@@ -16,20 +16,22 @@
 	{{ $content := $content | replaceRE "\\?" "\\?" }}
 
 	{{ $wikilink :=  printf "%s%s\\|%s%s" $firstBracket $content $name $lastBracket }}
-	
-	{{ $anchorized := $content | anchorize }}
 
+	{{ $anchorized := $content | anchorize }}
+	{{ $anchorized := $anchorized | replaceRE "rsquo" ""}}
+	{{ $anchorized := printf "/wiki/%s" $anchorized }}
 	{{ $rel := relref $page $anchorized }}
 	{{ if not (in $rel "/wiki/") }}
+		{{warnf "%q %q" $rel $anchorized}}
 		{{ $rel = "/wiki/404" }}
 	{{ end }}
 
-    {{ $link := printf "%s%s%s%s%s" "<a href=\"" $rel "\">" $name "</a>"  }}
+	{{ $link := printf "%s%s%s%s%s" "<a href=\"" $rel "\">" $name "</a>"  }}
 
 	{{ if in $rel "/wiki/404" }}
 		{{ $link = $link | replaceRE "<a" "<a class=\"notfound\"" }}
 	{{ end }}
-	
+
 	{{ $noteContent := $.Scratch.Get "content" | replaceRE $wikilink $link }}
 	{{ $.Scratch.Set "content" $noteContent }}
 {{ end }}
@@ -41,15 +43,17 @@
 	{{ $content := $content | replaceRE "\\?" "\\?" }}
 
 	{{ $wikilink :=  printf "%s%s%s" $firstBracket $content $lastBracket }}
-	
-	{{ $anchorized := $content | anchorize }}
 
+	{{ $anchorized := $content | anchorize }}
+	{{ $anchorized := $anchorized | replaceRE "rsquo" ""}}
+	{{ $anchorized := printf "/wiki/%s" $anchorized }}
 	{{ $rel := relref $page $anchorized }}
 	{{ if not (in $rel "/wiki/") }}
+		{{warnf "%q %q" $rel $anchorized}}
 		{{ $rel = "/wiki/404" }}
 	{{ end }}
 
-    {{ $link := printf "%s%s%s%s%s" "<a href=\"" $rel "\">" $content "</a>"  }}
+	{{ $link := printf "%s%s%s%s%s" "<a href=\"" $rel "\">" $content "</a>"  }}
 
 	{{ if in $rel "/wiki/404" }}
 		{{ $link = $link | replaceRE "<a" "<a class=\"notfound\"" }}
