@@ -26,6 +26,9 @@
 
     {{ $link := printf "%s%s%s%s%s" "<a href=\"" $rel "\">" $name "</a>"  }}
 
+	{{ if in $rel "/wiki/404" }}
+		{{ $link = $link | replaceRE "<a" "<a class=\"notfound\"" }}
+	{{ end }}
 	
 	{{ $noteContent := $.Scratch.Get "content" | replaceRE $wikilink $link }}
 	{{ $.Scratch.Set "content" $noteContent }}
@@ -47,6 +50,10 @@
 	{{ end }}
 
     {{ $link := printf "%s%s%s%s%s" "<a href=\"" $rel "\">" $content "</a>"  }}
+
+	{{ if in $rel "/wiki/404" }}
+		{{ $link = $link | replaceRE "<a" "<a class=\"notfound\"" }}
+	{{ end }}
 
 	{{ $noteContent := $.Scratch.Get "content" | replaceRE $wikilink $link }}
 	{{ $.Scratch.Set "content" $noteContent }}

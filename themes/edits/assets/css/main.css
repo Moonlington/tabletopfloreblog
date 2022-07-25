@@ -78,10 +78,21 @@ a {
     text-decoration: none;
 }
 
+a.notfound {
+    color: var(--link-notfound-color);
+    text-decoration: none;
+}
+
 a:hover,
 a:focus,
 a:active {
     color: var(--link-state-color);
+    /* border-bottom: 1px solid var(--link-state-border-color); */
+}
+a.notfound:hover,
+a.notfound:focus,
+a.notfound:active {
+    color: var(--link-notfound-state-color);
     /* border-bottom: 1px solid var(--link-state-border-color); */
 }
 

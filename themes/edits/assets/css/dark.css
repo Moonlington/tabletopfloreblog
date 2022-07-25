@@ -6,6 +6,8 @@
     --link-color: #d3090b;
     --link-state-color: #940608;
     --link-state-border-color: rgba(238, 54, 54, 0.5);
+    --link-notfound-color: #940608;
+    --link-notfound-state-color: #3f0303;
 
     --thead-bg-color: #020202;
     --table-border-color: lightgrey;
