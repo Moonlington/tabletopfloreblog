@@ -607,3 +607,15 @@ ul.language-select > li, ul.footer-menu > li {
     background-color: var(--bg-color);
     transition: 500ms ease-in-out;
 }
+
+table.wikibanner {
+    margin: 1em 0em 1em;
+    /* border: 1px solid var(--table-border-color); */
+    background: var(--thead-bg-color) none repeat scroll 0% 0%;
+    width: 100%;
+}
+
+th.wikibanner, td.wikibanner {
+    padding: 0.2em 0.5em;
+    border: thin solid var(--table-border-color);
+}
