@@ -29,7 +29,7 @@
 {{ partial "post-pagination.html" . }}
 {{ end }}
 
-{{ if .Site.DisqusShortname }}
+{{ if and (.Site.DisqusShortname) (ne .Type "wiki") }}
 {{ partial "disqus.html" . }}
 {{ end }}
 
