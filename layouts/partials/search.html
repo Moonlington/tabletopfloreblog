@@ -1,0 +1,9 @@
+<!-- layouts/partials/search.html -->
+<form id="search__form" class="noscript" method="GET" action="https://duckduckgo.com/" data-language-prefix="{{ site.LanguagePrefix }}" data-focus="false">
+	<div class="search__bar">
+		<input id="search__input" name="q" tabindex="0" autocomplete="off" placeholder="search">
+		<label id="search__button" for="search__input" class="icon" type="button"><span>⌕</span></label>
+	</div>
+	<div id="search__results" class="articles-list"></div>
+</form>
+<script src="{{ "/js/fixedsearch.js" | relURL }}"></script>
