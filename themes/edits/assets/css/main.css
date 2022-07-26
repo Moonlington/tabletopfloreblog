@@ -687,6 +687,7 @@ askolonion.js search form
 	left: 0;
     right: 0;
     top:5em;
+    position: absolute;
 	margin-top: calc(-1 * var(--gutter));
 	padding: var(--gutter);
 	min-height: 100vh;
