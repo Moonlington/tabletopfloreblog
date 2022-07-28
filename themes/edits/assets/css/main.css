@@ -858,3 +858,10 @@ a.searchresult {
 a.searchresult:hover,a.searchresult:focus,a.searchresult:active {
     color: var(--link-state-color)
 }
+
+div.broader, 
+div.further, 
+div.main, 
+div.seealso  {
+    margin: .5em 1em;
+}
