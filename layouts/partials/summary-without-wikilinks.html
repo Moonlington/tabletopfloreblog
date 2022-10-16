@@ -1,0 +1,67 @@
+{{ $firstBracket := "\\[\\[" }}
+{{ $lastBracket := "\\]\\]" }}
+
+{{ $wikiregexWithText := "\\[\\[([^\\]\\|\\r\\n]+?)\\|([^\\]\\|\\r\\n]+?)\\]\\]" }}
+{{ $wikiregex := "\\[\\[([^\\]\\|\\r\\n]+?)\\]\\]" }}
+
+{{ $page := .Page }}
+
+{{ $.Scratch.Add "summary" .Summary }}
+
+{{ $wikilinks := .Summary | findRE $wikiregexWithText }}
+{{ range $wikilinks }}
+
+	{{ $summary := . | replaceRE $wikiregexWithText "$1" }}
+	{{ $name := . | replaceRE $wikiregexWithText "$2"}}
+	{{ $summary := $summary | replaceRE "\\?" "\\?" }}
+
+	{{ $wikilink :=  printf "%s%s\\|%s%s" $firstBracket $summary $name $lastBracket }}
+
+	{{ $anchorized := $summary | anchorize }}
+	{{ $anchorized := $anchorized | replaceRE "rsquo" ""}}
+	{{ $anchorized := printf "/wiki/%s" $anchorized }}
+	{{ $rel := relref $page $anchorized }}
+	{{ if not (in $rel "/wiki/") }}
+		{{warnf "%q %q" $rel $anchorized}}
+		{{ $rel = "/wiki/404" }}
+	{{ end }}
+
+	{{ $link := printf "%s%s%s%s%s" "<a href=\"" $rel "\">" $name "</a>"  }}
+
+	{{ if in $rel "/wiki/404" }}
+		{{ $link = $link | replaceRE "<a" "<a class=\"notfound\"" }}
+	{{ end }}
+
+	{{ $notesummary := $.Scratch.Get "summary" | replaceRE $wikilink $link }}
+	{{ $.Scratch.Set "summary" $notesummary }}
+{{ end }}
+
+{{ $wikilinks := .Summary | findRE $wikiregex }}
+{{ range $wikilinks }}
+
+	{{ $summary := . | replaceRE $wikiregex "$1" }}
+	{{ $summary := $summary | replaceRE "\\?" "\\?" }}
+
+	{{ $wikilink :=  printf "%s%s%s" $firstBracket $summary $lastBracket }}
+
+	{{ $anchorized := $summary | anchorize }}
+	{{ $anchorized := $anchorized | replaceRE "rsquo" ""}}
+	{{ $anchorized := printf "/wiki/%s" $anchorized }}
+	{{ $rel := relref $page $anchorized }}
+	{{ if not (in $rel "/wiki/") }}
+		{{warnf "%q %q" $rel $anchorized}}
+		{{ $rel = "/wiki/404" }}
+	{{ end }}
+
+	{{ $link := printf "%s%s%s%s%s" "<a href=\"" $rel "\">" $summary "</a>"  }}
+
+	{{ if in $rel "/wiki/404" }}
+		{{ $link = $link | replaceRE "<a" "<a class=\"notfound\"" }}
+	{{ end }}
+
+	{{ $notesummary := $.Scratch.Get "summary" | replaceRE $wikilink $link }}
+	{{ $.Scratch.Set "summary" $notesummary }}
+{{ end }}
+
+{{ $summary := .Scratch.Get "summary" }}
+{{ $summary | markdownify }}

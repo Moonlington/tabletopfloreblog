@@ -1,0 +1,15 @@
+.spoiler {
+    background-color: var(--tw-prose-body);
+    transition: 250ms ease-in-out;
+}
+.spoiler:hover {
+    background-color: transparent;
+    transition: 250ms ease-in-out;
+}
+
+div.broader,
+div.further,
+div.main,
+div.seealso {
+    margin: 0.5em 1em;
+}

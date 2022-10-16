@@ -7,7 +7,7 @@ Hello! I've suddenly had the inspiration to start this blog. I want to use it to
 
 ## Who am I?
 
-My name is Flore, a 20 year old man living in the Netherlands, who has been playing D&D for almost four years now. Most of that time has been as a DM. I'm a big fan of Critical Role, which has been my main inspiration for being a DM, and creating my own worlds. I used to study Aerospace Engineering, but I have switched over to Computer Science this year. I am a DM for two groups of 6 and 7 people, where I make an attempt to prepare both sessions every week.
+My name is Flore, a 21 year old guy living in the Netherlands, who has been playing D&D for almost four years now. Most of that time has been as a DM. I'm a big fan of Critical Role, which has been my main inspiration for being a DM, and creating my own worlds. I used to study Aerospace Engineering, but I have switched over to Computer Science this year. I am a DM for two groups of 6 and 7 people, where I make an attempt to prepare both sessions every week.
 
 ## Why make this blog?
 
