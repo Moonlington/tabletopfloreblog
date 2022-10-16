@@ -13,6 +13,12 @@ div.main,
 div.seealso {
     margin: 0.5em 1em;
 }
+
+a.notfound {
+    color: rgba(var(--color-primary-600), 1);
+    text-decoration: none;
+}
+
 :root {
     --color-neutral: 255, 255, 255;
     /* Gray */
