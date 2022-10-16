@@ -21,10 +21,7 @@
 	{{ $anchorized := $anchorized | replaceRE "rsquo" ""}}
 	{{ $anchorized := printf "/wiki/%s" $anchorized }}
 	{{ $rel := relref $page $anchorized }}
-	{{ if not (in $rel "/wiki/") }}
-		{{warnf "%q %q" $rel $anchorized}}
-		{{ $rel = "/wiki/404" }}
-	{{ end }}
+
 
 	{{ $link := printf "%s%s%s%s%s" "<a href=\"" $rel "\">" $name "</a>"  }}
 
@@ -48,10 +45,7 @@
 	{{ $anchorized := $anchorized | replaceRE "rsquo" ""}}
 	{{ $anchorized := printf "/wiki/%s" $anchorized }}
 	{{ $rel := relref $page $anchorized }}
-	{{ if not (in $rel "/wiki/") }}
-		{{warnf "%q %q" $rel $anchorized}}
-		{{ $rel = "/wiki/404" }}
-	{{ end }}
+
 
 	{{ $link := printf "%s%s%s%s%s" "<a href=\"" $rel "\">" $content "</a>"  }}
 

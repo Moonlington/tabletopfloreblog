@@ -45,7 +45,10 @@ $articleInnerClasses = delimit (slice $articleInnerClasses "mt-3 md:mt-0") " " }
             </div>
             <div class="text-sm text-neutral-500 dark:text-neutral-400">{{ partial "article-meta.html" . }}</div>
             {{ if .Params.showSummary | default (.Site.Params.list.showSummary | default false) }}
-            <div class="py-1 prose dark:prose-invert">{{ .Summary | emojify }}</div>
+            <div class="py-1 prose dark:prose-invert">
+                {{ .Summary | replaceRE "\\[\\[([^\\]\\|\\r\\n]+?)\\]\\]" "$1" | replaceRE
+                "\\[\\[([^\\]\\|\\r\\n]+?)\\|([^\\]\\|\\r\\n]+?)\\]\\]" "$2" | emojify }}
+            </div>
             {{ end }}
         </div>
     </a>
