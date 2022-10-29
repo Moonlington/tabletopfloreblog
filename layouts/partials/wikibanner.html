@@ -1,9 +1,4 @@
-<table class="wikibanner">
-    <tbody class="wikibanner">
-        <tr class="wikibanner">
-            <td class="wikibanner">
-                {{ partial "wikibanner-content.html" . | markdownify}}
-            </td>
-        </tr>
-    </tbody>
-</table>
+<div class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-800">
+    <span class="text-primary-400 ltr:pr-3 rtl:pl-3"> {{ partial "icon.html" "triangle-exclamation" }} </span>
+    <span class="dark:text-neutral-300"> {{ partial "wikibanner-content.html" . | markdownify}} </span>
+</div>
