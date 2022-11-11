@@ -1,13 +1,13 @@
 ---
 title: "Pantheon of Ae'thar: More Deities, Story, and Culture"
 date: "2021-08-04"
-categories: 
-  - "dnd5e"
-  - "ttrpg"
-  - "worldbuilding"
-tags: 
-  - "ae'thar"
-  - "religion"
+categories:
+    - "dnd5e"
+    - "ttrpg"
+    - "worldbuilding"
+tags:
+    - "halcyon"
+    - "religion"
 ---
 
 So, last post was quite a long one. I think I've gotten a great start to my pantheon already. This article will flesh out the pantheon more by adding minor deities to fill some domains, add the '[one good story](https://www.youtube.com/watch?v=eMgPgbRb_fA)', and develop how the culture and actual religion in this world would be like.

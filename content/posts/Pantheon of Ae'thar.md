@@ -1,13 +1,13 @@
 ---
 title: "Pantheon of Ae'thar"
 date: "2021-07-31"
-categories: 
-  - "dnd5e"
-  - "ttrpg"
-  - "worldbuilding"
-tags: 
-  - "ae'thar"
-  - "religion"
+categories:
+    - "dnd5e"
+    - "ttrpg"
+    - "worldbuilding"
+tags:
+    - "halcyon"
+    - "religion"
 ---
 
 Like I said in my last article, this article is going to be me trying to take the (arguably small amount of) knowledge I gained from writing that article and apply that to my new world of _Ae'thar_. I want to see what kind of system I want to use and what I want to focus on, and maybe work out some cultures and religions as well. As not everyone knows what Ae'thar is, I'll start by giving a small introduction to the world.

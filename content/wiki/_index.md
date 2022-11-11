@@ -18,4 +18,4 @@ Welcome to the wiki for my newer content. My older stuff used to be up on [Xhori
 ### Important Pages
 
 -   [[Important Information]]
--   [[History|History of the World]]
+-   [[History of Halcyon]]

@@ -1,14 +1,14 @@
 ---
 title: "Pantheons and Religions"
 date: "2021-07-17"
-categories: 
-  - "ttrpg"
-  - "worldbuilding"
-tags: 
-  - "eden"
-  - "ae'thar"
-  - "religion"
-  - "xhoria"
+categories:
+    - "ttrpg"
+    - "worldbuilding"
+tags:
+    - "eden"
+    - "halcyon"
+    - "religion"
+    - "xhoria"
 ---
 
 As the first article on this blog of mine, I wanted to discuss the role that the deities, religions, and pantheons in your world plays, both in worldbuilding and your tabletop games. I'm now figuring out the deities for my world of _Ae'thar_, and I wanted to share my thoughts about designing them in this article.
