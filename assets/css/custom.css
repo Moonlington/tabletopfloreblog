@@ -15,7 +15,7 @@ div.seealso {
 }
 
 a.notfound {
-    color: rgba(var(--color-primary-600), 1);
+    color: rgba(var(--color-primary-700), 1);
     text-decoration: none;
 }
 
@@ -33,17 +33,16 @@ a.notfound {
     --color-neutral-800: 39, 39, 42;
     --color-neutral-900: 24, 24, 27;
     /* Red */
-    --color-primary: 255, 255, 255;
-    --color-primary-50: 255, 255, 255;
-    --color-primary-100: 254, 197, 207;
-    --color-primary-200: 253, 121, 144;
-    --color-primary-300: 251, 46, 82;
-    --color-primary-400: 217, 4, 41;
-    --color-primary-500: 177, 3, 33;
-    --color-primary-600: 137, 3, 26;
-    --color-primary-700: 97, 2, 18;
-    --color-primary-800: 57, 1, 11;
-    --color-primary-900: 17, 0, 3;
+    --color-primary-50:     255,255,255;
+    --color-primary-100:    255,255,255;
+    --color-primary-200:    252,211,211;
+    --color-primary-300:    246,100,100;
+    --color-primary-400:    240,20,20;
+    --color-primary-500:    216,17,17;
+    --color-primary-600:    178,14,14;
+    --color-primary-700:    140,11,11;
+    --color-primary-800:    103,8,8;
+    --color-primary-900:    65,5,5;
     /* Rose */
     --color-secondary-50: 255, 241, 242;
     --color-secondary-100: 255, 228, 230;
