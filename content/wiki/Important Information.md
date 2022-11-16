@@ -25,11 +25,11 @@ If a spell with a casting time of 1 action is used to attempt to restore life (v
 
 There are a few races that are either overpowered or do not fit within the world of [[Halcyon]]. These are as follows.
 
--   Aarakocra (Flight is overpowered at lvl 1)
--   Simic Hybrid (...What even is it?)
--   Vedalken (Overpowered due to adv on saving throws)
--   Yuan-ti Pureblood (Should be fine without Magic Resistance)
--   Variant Human (Given that I'm planning on giving everyone a free feat)
+- Aarakocra (Flight is overpowered at lvl 1)
+- Simic Hybrid (...What even is it?)
+- Vedalken (Overpowered due to adv on saving throws)
+- Yuan-ti Pureblood (Should be fine without Magic Resistance)
+- Variant Human (Given that I'm planning on giving everyone a free feat)
 
 ### Bloodied Condition
 

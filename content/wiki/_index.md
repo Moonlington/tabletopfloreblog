@@ -3,7 +3,7 @@ title: "Wiki"
 date: 2022-01-27T22:14:55+01:00
 ---
 
-## Welcome to Flore's Worldbuilding Wiki!
+## Welcome to Flore's Worldbuilding Wiki
 
 Welcome to the wiki for my newer content. My older stuff used to be up on [XhoriaWiki](https://xhoria.miraheze.org/wiki/Main_Page), but ever since I was able to get my own site working, I felt like moving the newer content over to this site, instead of using the wiki that was originally supposed for just Xhoria.
 
@@ -17,5 +17,5 @@ Welcome to the wiki for my newer content. My older stuff used to be up on [Xhori
 
 ### Important Pages
 
--   [[Important Information]]
--   [[History of Halcyon]]
+- [[Important Information]]
+- [[History of Halcyon]]

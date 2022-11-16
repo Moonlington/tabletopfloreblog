@@ -8,6 +8,7 @@ It has been an absurdly long while since I posted anything on this site. Persona
 I've been working more and more on the world of Ae'thar and it's been really, really fun writing for it. I'm even slowly starting a different campaign based in a completely different portion of the world together with some friends on Discord.
 
 That also brought me a lot more motivation to write on my blog again. It's finally time for me to start working on the Wiki part of the site, and write a couple of articles on the different concepts I've been working with in Ae'thar. Here's a couple of articles that I'm currently writing/working on:
+
 - About the history of Ae'thar
 - The importance of focus in worldbuilding
 - Writing my own calendar for Ae'thar
