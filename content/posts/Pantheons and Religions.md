@@ -61,6 +61,10 @@ Eden has an interesting system of only two _assumed_ deities, Lux and Nox, who a
 
 ### Ae'thar
 
+{{< alert >}}
+Ae'thar has been renamed to Halcyon in newer articles.
+{{< /alert >}}
+
 I am going to write a separate article on my pantheon for Ae'thar, and what my train of thought was designing them. Hopefully you look forward to reading that!
 
 ## Closing thoughts
