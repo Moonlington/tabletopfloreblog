@@ -1,5 +1,29 @@
 <table class="infobox">
-    <tr>
-        <th colspan="2" class="infobox-above">{{ with .Get "name"}} {{ . }} {{ end }}</th>
+    {{ with .Get "name" }}<tr class="infobox-tr">
+        <th colspan="2" class="infobox-above"> {{ . }} </th>
+    </tr>{{ end }}
+    {{ with .Get "subtitle" }}<tr class="infobox-tr">
+        <td colspan="2" class="infobox-subheader">
+            <div style="font-size: 110%;">{{.}}</div>
+        </td>
+    </tr>{{ end }}
+    <tr class="infobox-tr">
+        <th colspan="2" class="infobox-header">Deity information</th>
     </tr>
+    {{ with .Get "type" }}<tr class="infobox-tr">
+        <th scope="row" class="infobox-label">Type</th>
+        <td class="infobox-data">{{.}}</td>
+    </tr>{{ end }}
+    {{ with .Get "province" }}<tr class="infobox-tr">
+        <th scope="row" class="infobox-label">Province</th>
+        <td class="infobox-data">{{.}}</td>
+    </tr>{{ end }}
+    {{ with .Get "symbol" }}<tr class="infobox-tr">
+        <th scope="row" class="infobox-label">Symbol</th>
+        <td class="infobox-data">{{.}}</td>
+    </tr>{{ end }}
+    {{ with .Get "gender" }}<tr class="infobox-tr">
+        <th scope="row" class="infobox-label">Gender</th>
+        <td class="infobox-data">{{.}}</td>
+    </tr>{{ end }}
 </table>
