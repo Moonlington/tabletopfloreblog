@@ -30,7 +30,7 @@ googleAnalytics = "G-7E7DG2KSTP"
   series = "series"
 
 [sitemap]
-  changefreq = 'daily'
+  changefreq = 'hourly'
   filename = 'sitemap.xml'
   priority = 0.5
 
