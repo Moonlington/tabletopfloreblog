@@ -8,6 +8,8 @@ categories:
 tags:
     - "halcyon"
     - "religion"
+series: ["Designing a Pantheon"]
+series_order: 3
 ---
 
 {{< alert >}}
