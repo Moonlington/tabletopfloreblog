@@ -9,11 +9,18 @@ Welcome to the wiki for my newer content. My older stuff used to be up on [Xhori
 
 ### Preface
 
-"Xhoria, the first fantasy world I started actually working on instead of dropping it in the bin. This world has been the product of many weeks of brainstorming and talking with my friends. I hope that this document will grow indefinitely over years and years of time. This short document will become a starter's guide to my world and will be updated regularly. This world will be the building block upon you and your friends will embark on a campaign I, as the DM, will come up with. I hope this world will bring many memories of you and you friends that you will cherish for a long while." - Flore, Nov 2019.
+_"Ever since I have played Dungeons and Dragons 5th Edition with friends, I have been fascinated by the art of worldbuilding. I've designed and written about multiple worlds, most of them I personally now deem as insufficient or just kind of mediocre, mostly in comparison to what I am able to envision now._
 
-"I remember writing the previous statement long ago. This was still a small project of mine then. It's grown bigger than I ever would have thought, and it will not stop growing. Now that I've switched over to a wiki format I feel that the speed and quality of my work will increase tremendously. I hope you guys enjoy my work, and the previous statements still apply here." - Flore, Aug 2020.
+_Xhoria was one of the first worlds I wrote, which quickly got out of hand as I started to write wider and wider, as to creating some depth, leading to a huge backlog that drained my motivation.
+I wrote Eden, a short and small world focussed on a central idea, which was fun to explore.
+Now I am writing Halcyon, a world where I am primarily focussing on what I find fun in a fantasy world. Exploration, mystery, conflict, drama, etc._
 
-"Right, It's been a while, I changed a lot of stuff, dumped a lot of old stuff, created a lot of new stuff. Such is the life of a worldbuilder. Ae'thar has been a great project which I feel confident in. No more unnecessary fluff, no more info bloat. Just fantasy fun." - Flore, Jan 2022.
+_As I have been able to spend more and more time thinking of my world and fleshing it out, sometimes completely changing fundamental things, I've grown to have a newfound appreciation for the craft of worldbuilding. It is a form of a creative outlet for myself, and I always find myself thinking of things to add, develop, write, etc. Sometimes these things will never get to see the light of day in a Dungeons and Dragons game, but I still like writing them._
+
+_This wiki serves as a source of information for both myself and others interested in my world of Halcyon. I hope to give a sense of wonder and adventure by just reading these articles. I've gone through many stages when writing and designing my worlds._
+_I've gone from primarily focussing on the game to more or less giving more attention to the world, and having the game be a product of the world, not the other way around."_
+
+\- Tarun Johan "Flore" Lankhaar, November 2022.
 
 ### Important Pages
 
