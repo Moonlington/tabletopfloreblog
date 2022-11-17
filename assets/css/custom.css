@@ -55,3 +55,24 @@ a.notfound {
     --color-secondary-800: 159, 18, 57;
     --color-secondary-900: 136, 19, 55;
 }
+
+/* Infobox stuff */
+.infobox {
+    background-color: rgb(var(--color-neutral-900));
+    border-radius: 0.5em;
+    margin:0.5em 0 0.5em 1em;
+    padding:0.2em;
+    float:right;
+    clear:right;
+    font-size:88%;
+    line-height:1.5em;
+    width:22em
+}
+
+.infobox .infobox-above,
+.infobox .infobox-title,
+.infobox caption {
+ font-size:125%;
+ font-weight:bold;
+ text-align:center
+}
