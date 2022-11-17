@@ -1,5 +1,5 @@
-module github.com/Moonlington/tabletopfloreblog
+module github.com/Moonlington/tabletopflore
 
-go 1.18
+go 1.19
 
-require github.com/nunocoracao/blowfish v1.9.0 // indirect
+require github.com/nunocoracao/blowfish/v2 v2.13.0 // indirect
