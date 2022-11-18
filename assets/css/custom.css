@@ -95,16 +95,21 @@ a.notfound {
  vertical-align:middle;
 }
 
-.infobox-above,
-.infobox-header {
+.infobox-above {
     border-top-right-radius: 10px;
     border-top-left-radius: 10px;
     padding: 0.2em;
     background-color: rgb(var(--color-primary-900));
 }
 
+.infobox-header {
+    padding: 0.2em;
+    background-color: rgb(var(--color-primary-900));
+}
+
+
 .infobox-label {
-    padding-left: .75em;
+    padding: 0.5em 0em 0.5em 0.75em;
 }
 
 
@@ -134,8 +139,4 @@ a.notfound {
 }
 .infobox .infobox-navbar {
  text-align:right
-}
-.infobox-tr {
-    border-bottom-width:0px;
-    border-bottom-color:none;
 }
