@@ -17,7 +17,7 @@ Their attempt at creating order in the chaos was not overlooked, as quickly the 
 
 ## The Creation of Man
 
-As the world began to take its shape, the deities created lesser forms to inhabit their created realm. It was [[Titania]] who shaped the [[Elves]] first, who would walk upon the new world and gaze up at the heavenly skies as their creators continued to keep the cosmos at bay. Then, [[Mallus]] took it upon himself to forge the [[Dwarves]], with whom he instilled the same desire to tame the world, to _create_ something. Next was a third race, the [[Humans]], who were instilled with a sense of order by [[Astra]] and curiosity by [[Luna]] to bring meaning to the world. Despite their short lives, they were imbued with ambition, joy, and a sense of purpose.
+As the world began to take its shape, the deities created lesser forms to inhabit their created realm. It was [[Titania]] who shaped the [[Elves]] first, who would walk upon the new world and gaze up at the heavenly skies as their creators continued to keep the cosmos at bay. Then, [[Mallus]] took it upon himself to forge the [[Dwarves]], with whom he instilled the same desire to tame the world, to _create_ something. Next was a third race, the [[Humans]], who were instilled with a sense of order by [[Aster]] and curiosity by [[Luna]] to bring meaning to the world. Despite their short lives, they were imbued with ambition, joy, and a sense of purpose.
 
 After these three, the imagination of the deities became limitless. However, while more creations were birthed onto the world, not even the archives of the ancient city of [[Aurora]] could bring light to the origin and identities of other creations.
 
@@ -27,7 +27,7 @@ While the deities were protecting their unknowing creations from the hostile for
 
 As the deities bought more time for themselves and their creations, they took it upon themselves to take their creation's form and walk among them.
 
-As time went on, more of what we now deem as normal came into existence. [[Astra]] and [[Luna]] gave a sense of rhythm to the world by having the star <!-- Give the star a name and link it --> shine its light upon the lands for half of the day, while the two moons, [[Majora]] and [[Minora]], kept a watchful eye during nightfall.
+As time went on, more of what we now deem as normal came into existence. [[Aster]] and [[Luna]] gave a sense of rhythm to the world by having the star <!-- Give the star a name and link it --> shine its light upon the lands for half of the day, while the two moons, [[Majora]] and [[Minora]], kept a watchful eye during nightfall.
 
 ### The City of Aurora
 
