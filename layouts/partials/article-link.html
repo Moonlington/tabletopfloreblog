@@ -73,8 +73,7 @@
       </div>
       {{ if .Params.showSummary | default (.Site.Params.list.showSummary | default false) }}
       <div class="py-1 prose dark:prose-invert">
-        {{ .Summary | replaceRE "\\[\\[([^\\]\\|\\r\\n]+?)\\]\\]" "$1" | replaceRE
-                "\\[\\[([^\\]\\|\\r\\n]+?)\\|([^\\]\\|\\r\\n]+?)\\]\\]" "$2" | emojify }}
+        {{ partial "better-summary.html" . | emojify }}
       </div>
       {{ end }}
     </div>
