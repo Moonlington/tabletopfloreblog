@@ -1,9 +1,9 @@
 {{ $summarySplits := split .Content "<!--start-summary-->" }}
 {{ if ge (len $summarySplits) 2 }}
     <!-- If content has the comment "start-summary", start there -->
-    {{ index $summarySplits 1 | plainify | replaceRE "\\[\\[([^\\]\\|\\r\\n]+?)\\]\\]" "$1" | replaceRE
-    "\\[\\[([^\\]\\|\\r\\n]+?)\\|([^\\]\\|\\r\\n]+?)\\]\\]" "$2" | truncate 270 }}
+    {{ index $summarySplits 1 | replaceRE "\\[\\[([^\\]\\|\\r\\n]+?)\\]\\]" "$1" | replaceRE
+    "\\[\\[([^\\]\\|\\r\\n]+?)\\|([^\\]\\|\\r\\n]+?)\\]\\]" "$2" | markdownify }}
 {{ else }}
-    {{ .Summary | markdownify | replaceRE "\\[\\[([^\\]\\|\\r\\n]+?)\\]\\]" "$1" | replaceRE
-    "\\[\\[([^\\]\\|\\r\\n]+?)\\|([^\\]\\|\\r\\n]+?)\\]\\]" "$2" | truncate 270 }}
+    {{ .Summary | replaceRE "\\[\\[([^\\]\\|\\r\\n]+?)\\]\\]" "$1" | replaceRE
+    "\\[\\[([^\\]\\|\\r\\n]+?)\\|([^\\]\\|\\r\\n]+?)\\]\\]" "$2" | markdownify}}
 {{ end }}
