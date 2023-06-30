@@ -1,11 +1,9 @@
 ---
-title: "Important Information"
+title: "Flore's 5e House Rules"
 date: 2022-07-24T15:38:56+02:00
 ---
 
-This wiki article explains some of the homebrew rules, variant rules, and other important things to mention about how I personally run my Dungeons & Dragons 5th Edition games.
-
-## Houserules
+This article explains some of the homebrew rules, variant rules, and other important things to mention about how I personally run my Dungeons & Dragons 5th Edition games.
 
 ### Alternative Resurrection Rules
 
@@ -25,10 +23,9 @@ If a spell with a casting time of 1 action is used to attempt to restore life (v
 
 There are a few races that are either overpowered or do not fit within the world of [[Halcyon]]. These are as follows.
 
-- Aarakocra (Flight is overpowered at lvl 1)
-- Simic Hybrid (...What even is it?)
-- Vedalken (Overpowered due to adv on saving throws)
-- Yuan-ti Pureblood (Should be fine without Magic Resistance)
+- Aarakocra
+- Simic Hybrid
+- Vedalken
 - Variant Human (Given that I'm planning on giving everyone a free feat)
 
 ### Bloodied Condition

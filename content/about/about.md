@@ -1,13 +1,14 @@
 ---
 title: "About me and this blog"
 date: 2021-11-24T12:01:39+01:00
+layout: single
 ---
 
 Hello! I've suddenly had the inspiration to start this blog. I want to use it to write down my thoughts and ideas about worldbuilding and different TTRPGs.
 
 ## Who am I?
 
-My name is Flore, a 21 year old man living in the Netherlands, who has been playing D&D for almost five years now. Most of that time has been as a DM. I'm a big fan of Critical Role, which has been my main inspiration for being a DM and creating my own worlds. I used to study Aerospace Engineering, but I have switched over to Computer Science in 2021.
+My name is Flore, a 22 year old man living in the Netherlands, who has been playing D&D for almost five years now. Most of that time has been as a DM. I'm a big fan of Critical Role, which has been my main inspiration for being a DM and creating my own worlds. I used to study Aerospace Engineering, but I have switched over to Computer Science in 2021.
 
 ## Why make this blog?
 
@@ -19,6 +20,6 @@ Some parts of this blog will be blocked out in white, only to be revealed when m
 
 Test spoiler below.
 
-{{< spoiler >}}So this is how a spoiler would look like in the blog. Don't read it if its not for you.{{< /spoiler >}}
+{{<spoiler>}}So this is how a spoiler would look like in the blog. Don't read it if its not for you.{{</spoiler>}}
 
 I hope some people can get enjoyment out of my ideas and thoughts, how bad or insignificant they might be. :)

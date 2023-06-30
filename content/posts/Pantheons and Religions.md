@@ -9,7 +9,7 @@ tags:
     - "halcyon"
     - "religion"
     - "xhoria"
-series: ["Designing a Pantheon"]
+series: "Designing a Pantheon"
 series_order: 1
 ---
 
@@ -62,10 +62,6 @@ Eden has an interesting system of only two _assumed_ deities, Lux and Nox, who a
 {{% spoiler %}}So, between you and me, Lux and Nox do not exist, powerful forces do inhabit the world, like _His Radiance_ and the _Twelve Knights of Radiance_, but they're not considered _deities_. Lux and Nox aren't relevant entities in my story, either, which gives me a little lee-way when it comes to that. This does go against D&D's assumptions that gods exist and influence the world, I know, but bending those boundaries is just as enjoyable as staying within them.{{% /spoiler %}}
 
 ### Ae'thar
-
-{{< alert >}}
-Ae'thar has been renamed to Halcyon in newer articles.
-{{< /alert >}}
 
 I am going to write a separate article on my pantheon for Ae'thar, and what my train of thought was designing them. Hopefully you look forward to reading that!
 

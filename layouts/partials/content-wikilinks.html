@@ -5,7 +5,7 @@
 
 {{ $page := .Page }}
 
-{{ $.Scratch.Add "content" .Content }}
+{{ $.Scratch.Set "content" .Content }}
 
 {{ $wikilinks := .Content | findRE $wikiregexWithText }}
 {{ range $wikilinks }}
@@ -29,7 +29,7 @@
 
 	{{ $link := printf "%s%s%s%s%s" "<a href=\"" $rel "\">" $name "</a>"  }}
 
-	{{ if in $rel "/wiki/404" }}
+	{{ if in $rel "404" }}
 		{{ $link = $link | replaceRE "<a" "<a class=\"notfound\"" }}
 	{{ end }}
 	

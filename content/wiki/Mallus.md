@@ -1,6 +1,7 @@
 ---
 title: "Mallus"
 date: 2022-11-18T15:29:57+01:00
+draft: true
 ---
 
 {{<infobox/deity name="Mallus"

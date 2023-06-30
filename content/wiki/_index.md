@@ -24,6 +24,5 @@ _I've gone from primarily focussing on the game to more or less giving more atte
 
 ### Important Pages
 
-- [[Important Information|Important Information for D&D]]
+- [[Flore's 5e House Rules]]
 - [[History of Halcyon]]
-- [[Deities|Deities of Halcyon]]

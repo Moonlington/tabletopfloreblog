@@ -11,10 +11,6 @@ My name is Flore, a 20 year old man living in the Netherlands, who has been play
 
 ## Why make this blog?
 
-{{< alert >}}
-Ae'thar has been renamed to Halcyon in newer articles.
-{{< /alert >}}
-
 Lately I've been spending a lot of time creating a lot of different worlds, like my dark and gloomy world of **Eden** for one of my D&D groups, and the much more fantastical world of **Ae'thar** for my other D&D group. (I have a couple of groups I DM.)
 
 While I could talk to my friends about any decisions and thoughts I have about these things. I can't really, y'know, write entire blog posts to my friends. They're not **that** engaged in my musings.
@@ -23,6 +19,6 @@ Now some parts of this blog will be blocked out in white, only to be revealed wh
 
 Test spoiler below.
 
-So this is how a spoiler would look like in the blog. Don't read it if its not for you.
+{{<spoiler>}} So this is how a spoiler would look like in the blog. Don't read it if its not for you. {{</spoiler>}}
 
 I hope some people can get enjoyment out of my ideas and thoughts, how bad or insignificant they might be. :)
