@@ -30,8 +30,8 @@ refLinksNotFoundURL = "/404"
         # Limit:        If the files should be listed, how many should be shown.
     menu = [
         {Name = "About", URL = "/about/", HasChildren = false},
-        {Name = "Posts", URL = "/posts/", Pre = "Recent", HasChildren = true, Limit = 5},
-        {Name = "Wiki", URL = "/wiki/", Pre = "Recent", HasChildren = true, Limit = 5}
+        {Name = "Posts", URL = "/posts/", Pre = "Recent blog posts", HasChildren = true, Limit = 5},
+        {Name = "Wiki", URL = "/wiki/", Pre = "Recent wiki articles", HasChildren = true, Limit = 5}
     ]
 
     # Links to your socials.  Comment or delete any you don't need/use. 
@@ -72,7 +72,7 @@ refLinksNotFoundURL = "/404"
     content_bg_color = "#FAF9F6"    # default is #FAF9F6
     post_title_color = "#303030"    # default is #303030
     list_color = "#5a5a5a"          # default is #5a5a5a
-    link_color = "#d12525"          # default is #268bd2
+    link_color = "#f42020"          # default is #268bd2
     date_color = "#515151"          # default is #515151
     table_border_color = "#E5E5E5"  # default is #E5E5E5
     table_stripe_color = "#F9F9F9"  # default is #F9F9F9
@@ -82,7 +82,7 @@ refLinksNotFoundURL = "/404"
     content_bg_color_dark = "#121212"       # default is #121212
     post_title_color_dark = "#DBE2E9"       # default is #DBE2E9
     list_color_dark = "#9d9d9d"             # default is #9d9d9d
-    link_color_dark = "#d12525"             # default is #268bd2
+    link_color_dark = "#f42020"             # default is #268bd2
     date_color_dark = "#9a9a9a"             # default is #9a9a9a
     table_border_color_dark = "#515151"     # default is #515151
     table_stripe_color_dark = "#202020"     # default is #202020
