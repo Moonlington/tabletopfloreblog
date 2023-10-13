@@ -20,6 +20,8 @@ refLinksNotFoundURL = "/404"
     dark_mode = true                      # optional - defaults to false
     favicon = "/android-chrome-512x512.png"             # path to favicon (defaults to favicon.png)
 
+    front_page_content = ["posts"]
+
     # MENU PLACEHOLDER
     # Menu dict keys:
         # Name:         The name to display on the menu.
