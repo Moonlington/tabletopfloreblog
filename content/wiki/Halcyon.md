@@ -2,7 +2,7 @@
 title: "Halcyon"
 date: 2022-11-16T22:00:00+01:00
 tags:
-    - "concept"
+    - "lore"
     - "plane"
     - "halcyon"
 ---

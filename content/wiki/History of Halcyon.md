@@ -2,7 +2,7 @@
 title: "History of the World"
 date: 2022-11-09T20:00:00+02:00
 tags:
-    - "concept"
+    - "lore"
     - "history"
     - "halcyon"
 ---
