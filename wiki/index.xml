@@ -45,20 +45,38 @@
 &lt;p>After the veiling of the world, each different portion of the world began its own history. Some turned towards the [[Prime Deities]], some turned to the [[Arcane Magic|arcane]], but every single culture started a new history.&lt;/p></description></item><item><title>Metaknowledge</title><link>https://www.tabletopflore.com/wiki/metaknowledge/</link><pubDate>Mon, 25 Jul 2022 18:49:10 +0200</pubDate><guid>https://www.tabletopflore.com/wiki/metaknowledge/</guid><description>&lt;p>This wiki is meant for you to get a deeper understanding of the world of [[Halcyon]], however it is important to mention that you should separate the knowledge you as a player gain from this wiki, and the knowledge your character has. As much as I highly appreciate someone digging deeper into this world of my making, please make sure to keep player knowledge and character knowledge seperate. When in doubt, you can always ask me about it, I&amp;rsquo;m happy to help!&lt;/p>
 &lt;p>The wiki will &lt;strong>never&lt;/strong> contain spoilers for any campaign or character backstory. It will only contain information to immerse yourself in the history of the setting and its people.&lt;/p>
 &lt;p>&lt;em>Thank you for reading this page, I appreciate it.&lt;/em>&lt;/p></description></item><item><title>Flore's 5e House Rules</title><link>https://www.tabletopflore.com/wiki/flores-5e-house-rules/</link><pubDate>Sun, 24 Jul 2022 15:38:56 +0200</pubDate><guid>https://www.tabletopflore.com/wiki/flores-5e-house-rules/</guid><description>&lt;p>This article explains some of the homebrew rules, variant rules, and other important things to mention about how I personally run my Dungeons &amp;amp; Dragons 5th Edition games.&lt;/p>
-&lt;h3 id="alternative-resurrection-rules">Alternative Resurrection Rules&lt;/h3>
-&lt;p>I use Matthew Mercer&amp;rsquo;s rules for resurrection, which is explained below.&lt;/p>
-&lt;p>Character death can often prove to become a minor inconvenience in some campaigns once the adventuring party reaches a certain level, with spells being available to return fallen comrades from the afterlife with temporary setbacks, robbing a small element of danger and threat to future conflicts and challenges within the story. If you wish to elevate the gravity of character death, you can introduce this optional rule.&lt;/p>
-&lt;p>If a character is dead, and a resurrection is attempted by a spell or spell effect with longer than a 1 action casting time, a Resurrection Challenge is initiated. Up to 3 members of the adventuring party can offer to contribute to the ritual via a Contribution Skill Check. The DM asks them each to make a skill check based on their form of contribution, with the DC of the check adjusting to how helpful/impactful the DM feels the contribution would be. For example, praying to the deity of the devout, fallen character may require an Intelligence (Religion) check at an easy to medium difficulty, where loudly demanding the soul of the fallen to return from the aether may require a Charisma (Intimidation) check at a very hard or nearly impossible difficulty. Advantage and disadvantage can apply here based on how perfect, or off base, the contribution offered is.&lt;/p>
-&lt;p>After all contributions are completed, the DM then rolls a single, final Resurrection success check with no modifier. The base DC for the final resurrection check is 10, increasing by 1 for each previous successful resurrection the character has undergone (signifying the slow erosion of the soul’s connection to this world). For each successful contribution skill check, this DC is decreased by 3, whereas each failed contribution skill check increases the DC by 1. Upon a successful resurrection check, the player’s soul (should it be willing) will be returned to the body, and the ritual succeeded. On a failed check, the soul does not return and the character is lost.&lt;/p>
-&lt;p>Only the strongest of magical incantations can bypass this resurrection challenge, in the form of the True Resurrection or Wish spells. These spells can also restore a character to life who was lost due to a failed resurrection ritual.&lt;/p>
-&lt;p>If a spell with a casting time of 1 action is used to attempt to restore life (via the Revivify spell or similar effects), no contribution skill checks are allowed. The character casting the spell makes a Rapid Resurrection check, rolling a d20 and adding their spellcasting ability modifier. The DC is 10, increasing by 1 for each previous successful resurrection the character has undergone. On a failure, the character’s soul is not lost, but the resurrection fails and increases any future Resurrection checks’ DC by 1. No further attempts can be made to restore this character to life until a resurrection spell with a casting time higher than 1 action is attempted.&lt;/p>
 &lt;h3 id="banned-races">Banned Races&lt;/h3>
-&lt;p>There are a few races that are either overpowered or do not fit within the world of [[Halcyon]]. These are as follows.&lt;/p>
 &lt;ul>
-&lt;li>Aarakocra&lt;/li>
 &lt;li>Simic Hybrid&lt;/li>
 &lt;li>Vedalken&lt;/li>
-&lt;li>Variant Human (Given that I&amp;rsquo;m planning on giving everyone a free feat)&lt;/li>
+&lt;li>Variant Human&lt;/li>
+&lt;/ul>
+&lt;h3 id="changed-races">Changed Races&lt;/h3>
+&lt;ul>
+&lt;li>Aarakocra
+&lt;ul>
+&lt;li>You only gain the flight speed from level 5 onwards.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="banned-spells">Banned Spells&lt;/h3>
+&lt;ul>
+&lt;li>Silvery Barbs&lt;/li>
+&lt;/ul>
+&lt;h3 id="changed-spells">Changed Spells&lt;/h3>
+&lt;ul>
+&lt;li>Shocking Grasp
+&lt;ul>
+&lt;li>Instead of taking away reactions from the affected creature, the affected creature cannot use Opportunity Attacks until the start of their next turn.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Counterspell
+&lt;ul>
+&lt;li>You attempt to interrupt a creature in the process of casting a spell. If the creature is casting a spell of 2nd-level or lower, its spell fails and has no effect.&lt;/li>
+&lt;li>If it is casting a spell of 3rd-level or higher, make an ability check using your spellcasting ability (DC 10 + the spell&amp;rsquo;s level). On a success, the creature&amp;rsquo;s spell fails and has no effect, but the creature can use its reaction to reshape the fraying magic and cast another spell with the same casting time as the original spell.&lt;/li>
+&lt;li>This new spell must be cast at a spell slot level equal to or less than half the original spell slot.&lt;/li>
+&lt;/ul>
+&lt;/li>
 &lt;/ul>
 &lt;h3 id="bloodied-condition">Bloodied Condition&lt;/h3>
 &lt;p>A character is bloodied when the character&amp;rsquo;s hit points are equal to or less then one-half the character&amp;rsquo;s maximum hit points, rounded down. One-half the character&amp;rsquo;s maximum hit points is referred to as the character&amp;rsquo;s bloodied value. For example: a character with 50 maximum hit points has a bloodied value of 25, and is bloodied whenever the character&amp;rsquo;s hit points are equal to or less than 25. Most of the time this will be used to communicate progress into defeating a monster and will have no impact on gameplay. Some monsters or homebrew classes might have features that activate whenever a character has the bloodied condition.&lt;/p>
@@ -68,6 +86,13 @@
 &lt;p>If it makes sense for you to carry a thing, you can carry it. You won&amp;rsquo;t be able to carry whole statues, but I do not mind you having a lot of tiny stuff in your inventory. The exception to this is when it&amp;rsquo;s in huge quantities, think a gigantic hoard of gold, or a pile of swords and armor.&lt;/p>
 &lt;h3 id="intense-critical-hits">Intense Critical Hits&lt;/h3>
 &lt;p>If you roll a 20 on your attack roll against a creature, instead of either rolling twice the dice or double the amount, you add the maximum amount your dice could roll to your damage. Example: Your attack does 2d6+3 damage, on a crit you add 12 to that roll, which is the maximum of 2d6.&lt;/p>
+&lt;h3 id="resurrection-rules">Resurrection Rules&lt;/h3>
+&lt;p>I use Matthew Mercer&amp;rsquo;s rules for resurrection, which is explained below.&lt;/p>
+&lt;p>Character death can often prove to become a minor inconvenience in some campaigns once the adventuring party reaches a certain level, with spells being available to return fallen comrades from the afterlife with temporary setbacks, robbing a small element of danger and threat to future conflicts and challenges within the story. If you wish to elevate the gravity of character death, you can introduce this optional rule.&lt;/p>
+&lt;p>If a character is dead, and a resurrection is attempted by a spell or spell effect with longer than a 1 action casting time, a Resurrection Challenge is initiated. Up to 3 members of the adventuring party can offer to contribute to the ritual via a Contribution Skill Check. The DM asks them each to make a skill check based on their form of contribution, with the DC of the check adjusting to how helpful/impactful the DM feels the contribution would be. For example, praying to the deity of the devout, fallen character may require an Intelligence (Religion) check at an easy to medium difficulty, where loudly demanding the soul of the fallen to return from the aether may require a Charisma (Intimidation) check at a very hard or nearly impossible difficulty. Advantage and disadvantage can apply here based on how perfect, or off base, the contribution offered is.&lt;/p>
+&lt;p>After all contributions are completed, the DM then rolls a single, final Resurrection success check with no modifier. The base DC for the final resurrection check is 10, increasing by 1 for each previous successful resurrection the character has undergone (signifying the slow erosion of the soul’s connection to this world). For each successful contribution skill check, this DC is decreased by 3, whereas each failed contribution skill check increases the DC by 1. Upon a successful resurrection check, the player’s soul (should it be willing) will be returned to the body, and the ritual succeeded. On a failed check, the soul does not return and the character is lost.&lt;/p>
+&lt;p>Only the strongest of magical incantations can bypass this resurrection challenge, in the form of the True Resurrection or Wish spells. These spells can also restore a character to life who was lost due to a failed resurrection ritual.&lt;/p>
+&lt;p>If a spell with a casting time of 1 action is used to attempt to restore life (via the Revivify spell or similar effects), no contribution skill checks are allowed. The character casting the spell makes a Rapid Resurrection check, rolling a d20 and adding their spellcasting ability modifier. The DC is 10, increasing by 1 for each previous successful resurrection the character has undergone. On a failure, the character’s soul is not lost, but the resurrection fails and increases any future Resurrection checks’ DC by 1. No further attempts can be made to restore this character to life until a resurrection spell with a casting time higher than 1 action is attempted.&lt;/p>
 &lt;h2 id="variant-rules">Variant Rules&lt;/h2>
 &lt;h3 id="feats">Feats&lt;/h3>
 &lt;p>I allow feats. I think it adds a lot of customizability to the game and your character. I&amp;rsquo;m also allowing one single free feat for everyone at level 1. This rule might change.&lt;/p>
@@ -76,6 +101,6 @@
 &lt;h3 id="level-advancement-without-xp">Level Advancement Without XP&lt;/h3>
 &lt;p>I don&amp;rsquo;t like using XP for leveling because it encourages combat over the other pillars of Dungeons &amp;amp; Dragons, exploration and social interaction. I, as the DM, decide when the party levels up. This is decided on the amount of adventures and quests the party has completed and their difficulty. All members of the party are the same level&lt;/p>
 &lt;h3 id="more-difficult-identification">More difficult Identification&lt;/h3>
-&lt;p>I like magic items to be a bit more special than normal. You can identify a magic item using the &amp;lsquo;&amp;lsquo;Identify&amp;rsquo;&amp;rsquo; spell as usual, but you can only identify a magic item during a short rest if you succeed on an Intelligence (Arcana) check with a DC determined by the rarity of the magic item.&lt;/p>
+&lt;p>I like magic items to be a bit more special than normal. You can identify a magic item using the &amp;lsquo;Identify&amp;rsquo; spell as usual, but you can only identify a magic item during a short rest if you succeed on an Intelligence (Arcana) check with a DC determined by the rarity of the magic item.&lt;/p>
 &lt;h3 id="multiclassing">Multiclassing&lt;/h3>
 &lt;p>I also allow multiclassing, at least if you know what you&amp;rsquo;re doing.&lt;/p></description></item></channel></rss>
