@@ -20,3 +20,63 @@
 a.notfound {
     filter: brightness(60%)
 }
+
+.portable-infobox {
+    clear: right;
+    float: right;
+    margin: 0 0 1em 1em;
+    width: 50%;
+    border: 1px solid var(--table-border-color);
+    border-radius: 0%;
+    font-size: 90%;
+    box-sizing: content-box;
+}
+
+@media (max-width: 48em) {
+    .portable-infobox {
+        width: 100%;
+        font-size: 100%;
+    }
+}
+
+.pi-title {
+    text-align: center;
+    line-height: 1.2em;
+    font-weight: bold;
+    font-size: 125%;
+    margin: 0;
+    padding: 0.5em 0;
+    /* background-color: var(--table-stripe-color) */
+}
+
+.pi-header {
+    text-align: center;
+    line-height: 1.2em;
+    font-weight: bold;
+    font-size: 88%;
+    margin: 0;
+    padding: 0.5em 0;
+    background-color: var(--table-stripe-color)
+}
+
+.pi-data {
+    grid-column-gap: 9px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    overflow: hidden;
+    font-size: 88%;
+    padding: 0.25em 0.5em;
+}
+
+.pi-data-label {
+    text-align: left;
+    flex: 1 1 40%;
+}
+
+.pi-data-value {
+    overflow-wrap: break-word;
+    padding-left: 0;
+    margin-left: 4px;
+    flex: 0 1 60%;
+}
