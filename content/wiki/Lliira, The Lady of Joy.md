@@ -1,7 +1,6 @@
 ---
 title: "Lliira, The Lady of Joy"
 date: 2023-10-20T13:41:18+02:00
-draft: true
 ---
 
 {{<infobox/deity name="Lliira"

@@ -1,7 +1,6 @@
 ---
 title: "Deities"
 date: 2022-11-18T18:04:24+01:00
-draft: true
 ---
 
 The **Deities** of [[Halcyon]] are divided into the [[Prime Deities]], [[Traitor Gods]], and other lesser powers.

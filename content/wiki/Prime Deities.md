@@ -1,7 +1,6 @@
 ---
 title: "Prime Deities"
 date: 2023-10-13T16:38:09+02:00
-draft: true
 ---
 
 The **Prime Deities** are five of the [[Deities]] of [[Halcyon]]. These five deities stood with the [[Races of Halcyon|People of Halcyon]] when the [[Traitor Gods]] betrayed them during the [[The Sundering]]. They are worshiped widely across the lands, each having their own large following and religion built around them.
