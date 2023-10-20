@@ -1,7 +1,9 @@
 {{ define "main" -}}
 <div class="post">
   {{ partial "post/info.html" . }}
-  
+  {{ if and (eq .Type "wiki") (not (eq .Name "Metaknowledge"))}}
+    {{ partial "metaknowledge.html"}}
+  {{ end }}
   {{ partial "content-wikilinks" . }}
   {{ partial "post/navigation.html" . }}
   {{ if or (.Site.Params.remark42) (.Site.DisqusShortname) }}

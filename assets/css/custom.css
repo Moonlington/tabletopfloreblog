@@ -80,3 +80,10 @@ a.notfound {
     margin-left: 4px;
     flex: 0 1 60%;
 }
+
+.metaknowledge {
+    padding: 1em;
+    background-color: var(--sidebar-bg-color);
+    margin-bottom: 1em;
+    border-radius: 0.25em;
+}
