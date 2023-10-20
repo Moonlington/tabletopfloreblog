@@ -14,7 +14,7 @@ These lesser powers include [[archfey]], fiends and celestials of near-divine po
 - [[Titania, The Iridescent Mother]], Goddess of the Fey, Nature, and Beauty.
 - [[Mallus, The Forgefather]], God of Craft, Forge, and Fire.
 - [[The Dreammaiden, Weaver of Fate]], Goddess of Death, Dreams, and Destiny
-- [[Lliira, Mistress of Revels]], Goddess of Song, Joy, Freedom and Stories
+- [[Lliira, The Lady of Joy]], Goddess of Song, Joy, Freedom and Stories
 
 ## [[Traitor Gods]]
 - [[Asmodeus, Lord of Hell]], God of Devils, Hatred, and Hell.
