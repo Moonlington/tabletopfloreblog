@@ -5,9 +5,9 @@ draft: true
 ---
 
 {{<infobox/deity name="Titania"
-subtitle="The Iridescent Mother"
+title="The Iridescent Mother"
 type="[[Prime Deities|Prime Deity]]"
-province="Art, Beauty, [[Elves]]"
+aoc="Art, Beauty, [[Elves]]"
 symbol="Purple-colored butterfly"
 gender="Feminine"
 worshipers="[[Elves]], the fey"

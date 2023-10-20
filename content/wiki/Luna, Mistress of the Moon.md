@@ -5,9 +5,9 @@ draft: true
 ---
 
 {{<infobox/deity name="Luna"
-subtitle="Mistress of the Moon"
+title="Mistress of the Moon"
 type="[[Prime Deities|Prime Deity]]"
-province="Magic, Mystery, Moon, Night"
+aoc="Magic, Mystery, Moon, Night"
 symbol="Silver crescent moon, surrounding a full moon"
 gender="Feminine"
 worshipers="[[Arcanists]], [[Halflings]], [[Elves]]"

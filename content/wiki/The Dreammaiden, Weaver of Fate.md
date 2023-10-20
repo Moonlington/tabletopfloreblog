@@ -5,9 +5,9 @@ draft: true
 ---
 
 {{<infobox/deity name="The Dreammaiden"
-subtitle="Weaver of Fate"
+title="Weaver of Fate"
 type="[[Prime Deities|Prime Deity]]"
-province="Death, Destiny, Dreams, Twilight, Inevitability"
+aoc="Death, Destiny, Dreams, Twilight, Inevitability"
 symbol="White, humanoid mask"
 gender="Feminine"
 holyday="[[Reverence of the Spirits]]"

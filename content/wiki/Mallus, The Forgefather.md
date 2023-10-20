@@ -5,9 +5,9 @@ draft: true
 ---
 
 {{<infobox/deity name="Mallus"
-subtitle="The Forgefather"
+title="The Forgefather"
 type="[[Prime Deities|Prime Deity]]"
-province="Craft, Creation, Fire, [[Dwarves]]"
+aoc="Craft, Creation, Fire, [[Dwarves]]"
 symbol="Hammer engulfed in flames"
 gender="Masculine"
 worshipers="[[Dwarves]], smiths, artisans, miners"
