@@ -189,6 +189,26 @@ Solarion
 &lt;li>This new spell must be cast at a spell slot level equal to or less than half the original spell slot.&lt;/li>
 &lt;/ul>
 &lt;/li>
+&lt;li>Cure Wounds
+&lt;ul>
+&lt;li>Healing has increased to 2d8, and the healing improves by 2d8 at higher levels.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Healing Word
+&lt;ul>
+&lt;li>Healing has increased to 2d4, and the healing improves by 2d4 at higher levels.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Mass Cure Wounds
+&lt;ul>
+&lt;li>Now heals for 5d8 instead of 3d8.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Mass Healing Word
+&lt;ul>
+&lt;li>Now heals for 2d4 instead of 1d4.&lt;/li>
+&lt;/ul>
+&lt;/li>
 &lt;/ul>
 &lt;h3 id="bloodied-condition">Bloodied Condition&lt;/h3>
 &lt;p>A character is bloodied when the character&amp;rsquo;s hit points are equal to or less then one-half the character&amp;rsquo;s maximum hit points, rounded down. One-half the character&amp;rsquo;s maximum hit points is referred to as the character&amp;rsquo;s bloodied value. For example: a character with 50 maximum hit points has a bloodied value of 25, and is bloodied whenever the character&amp;rsquo;s hit points are equal to or less than 25. Most of the time this will be used to communicate progress into defeating a monster and will have no impact on gameplay. Some monsters or homebrew classes might have features that activate whenever a character has the bloodied condition.&lt;/p>
