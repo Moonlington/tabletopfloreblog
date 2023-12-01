@@ -28,6 +28,14 @@ This article explains some of the homebrew rules, variant rules, and other impor
   - You attempt to interrupt a creature in the process of casting a spell. If the creature is casting a spell of 2nd-level or lower, its spell fails and has no effect.
   - If it is casting a spell of 3rd-level or higher, make an ability check using your spellcasting ability (DC 10 + the spell's level). On a success, the creature's spell fails and has no effect, but the creature can use its reaction to reshape the fraying magic and cast another spell with the same casting time as the original spell.
   - This new spell must be cast at a spell slot level equal to or less than half the original spell slot.
+- Cure Wounds
+  - Healing has increased to 2d8, and the healing improves by 2d8 at higher levels.
+- Healing Word
+  - Healing has increased to 2d4, and the healing improves by 2d4 at higher levels.
+- Mass Cure Wounds
+  - Now heals for 5d8 instead of 3d8.
+- Mass Healing Word
+  - Now heals for 2d4 instead of 1d4.
 
 ### Bloodied Condition
 
