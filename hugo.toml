@@ -52,7 +52,7 @@ refLinksNotFoundURL = "/404"
     # matrix_url = "https://matrix.org"
     # xmpp_url = "https://xmpp.org"
     # email_url = "mailto://user@domain"
-    bluesky_url = "https://bsky.app/profile/florevevo.bsky.social"
+    bluesky_url = "https://bsky.app/profile/tabletopflore.com"
 
     # NOTE: If you don't want to use RSS, comment or delete the following lines
     # Adds an RSS icon to the end of the socials which links to {{ .Site.BaseURL }}/index.xml
