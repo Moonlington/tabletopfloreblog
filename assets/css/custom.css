@@ -87,3 +87,10 @@ a.notfound {
     margin-bottom: 1em;
     border-radius: 0.25em;
 }
+.figureimg {
+    margin-bottom: .5em;
+}
+.figcaption {
+    filter: brightness(75%);
+    font-size: 80%
+}
