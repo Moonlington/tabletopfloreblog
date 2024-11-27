@@ -114,3 +114,9 @@ refLinksNotFoundURL = "/404"
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+
+
+[services]
+  [services.googleAnalytics]
+    id = 'G-7E7DG2KSTP'
