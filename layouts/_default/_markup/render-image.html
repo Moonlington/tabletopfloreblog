@@ -1,8 +1,12 @@
 {{ if .Title }}
   <figure class="figure">
-    <img class="figureimg" src="{{ .Destination | safeURL }}" alt="{{ .Text }}">
+    <p class="md__image">
+      <img class="figureimg" id="zoom-default" src="{{ .Destination | safeURL }}" alt="{{ .Text }}">
+    </p>
     <figcaption class="figcaption">{{ .Title }}</figcaption>
   </figure>
 {{ else }}
-  <img src="{{ .Destination | safeURL }}" alt="{{ .Text }}">
+  <p class="md__image">
+    <img src="{{ .Destination | safeURL }}" id="zoom-default" alt="{{ .Text }}">
+  </p>
 {{ end }}
