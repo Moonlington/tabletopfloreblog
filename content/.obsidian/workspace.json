@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Untitled.md",
+                "file": "templates/hugo-post-template.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "hugo-post-template"
             }
           }
         ],
@@ -153,10 +153,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "templates/Untitled.md"
+                "file": "templates/hugo-post-template.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Untitled"
+              "title": "File properties for hugo-post-template"
             }
           },
           {
@@ -215,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Untitled.md",
+                "file": "templates/hugo-post-template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +225,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for hugo-post-template"
             }
           },
           {
@@ -263,7 +263,7 @@
   "active": "128c6a4ddcee85b9",
   "lastOpenFiles": [
     "posts/Agency, Ego, and Enjoyment Rethinking My Role in RPGs/index.md",
-    "templates/Untitled.md",
+    "templates/hugo-post-template.md",
     "templates",
     "posts/Agency, Ego, and Enjoyment Rethinking My Role in RPGs/img/mothership.png",
     "Modules/Impossible Landscapes/Locations/Dorchester House Psychiatric Facility.md",
