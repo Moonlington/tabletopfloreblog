@@ -1,0 +1,312 @@
+{
+  "main": {
+    "id": "0b33dcf8c072caec",
+    "type": "split",
+    "children": [
+      {
+        "id": "bbe4be6337f25bd9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a53c6f842765c289",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Modules/Impossible Landscapes/People/Dr. Elias Barbas.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Dr. Elias Barbas"
+            }
+          },
+          {
+            "id": "3a40aae1882b9fa8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Modules/Impossible Landscapes/Locations/Dorchester House Psychiatric Facility.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Dorchester House Psychiatric Facility"
+            }
+          },
+          {
+            "id": "128c6a4ddcee85b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/Agency, Ego, and Enjoyment Rethinking My Role in RPGs/index.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7b442db09a478135",
+    "type": "split",
+    "children": [
+      {
+        "id": "0765ea05178e19e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d2a0ab3c8a0b342",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a86bb6045f178172",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "962c24c2e5a38375",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 282.5026054382324
+  },
+  "right": {
+    "id": "f1a67233aba55dc8",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4a95d5a5f02e5c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "efe2d2ebb79960d5",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "posts/Agency, Ego, and Enjoyment Rethinking My Role in RPGs/index.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for index"
+            }
+          },
+          {
+            "id": "7fd924a0da51f70b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "72be243b847aa612",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Modules/Impossible Landscapes/Handouts/The Play (Macallistar).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of The Play (Macallistar)"
+            }
+          },
+          {
+            "id": "4b8af54dca36f460",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ]
+      },
+      {
+        "id": "dcd0e90f44546231",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b129a43d224b85ec",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "posts/Agency, Ego, and Enjoyment Rethinking My Role in RPGs/index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for index"
+            }
+          },
+          {
+            "id": "a03a8e35e5190f5f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Modules/Impossible Landscapes/Locations/Dorchester House Psychiatric Facility.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Dorchester House Psychiatric Facility"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 359.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false,
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "128c6a4ddcee85b9",
+  "lastOpenFiles": [
+    "posts/Agency, Ego, and Enjoyment Rethinking My Role in RPGs/img/mothership.png",
+    "Modules/Impossible Landscapes/Locations/Dorchester House Psychiatric Facility.md",
+    "Modules/Impossible Landscapes/Locations/Gail Huston.md",
+    "Modules/Impossible Landscapes/Locations/Ulrika Voors.md",
+    "Modules/Impossible Landscapes/Locations/Barbas's Residence.md",
+    "Modules/Impossible Landscapes/Locations/Dorchester House By Night.md",
+    "Modules/Impossible Landscapes/People/Esther Samigina.md",
+    "Modules/Impossible Landscapes/Locations/Timothy Bael.md",
+    "Modules/Eye of Odin/People/Mister Wilde.md",
+    "Modules/Impossible Landscapes/People/Dr. Richard Dallan.md",
+    "Modules/Impossible Landscapes/People/Edward Dubronvik.md",
+    "Modules/Impossible Landscapes/People/Dr. Maximo Friend.md",
+    "Modules/Impossible Landscapes/Act 2 - A Volume of Secret Faces.md",
+    "Modules/Impossible Landscapes/Impossible Landscapes.md",
+    "General/Cell M.md",
+    "General/Templates/Player Character.md",
+    "General/Templates/Session Note.md",
+    "General/Player Characters/Milos Sherpensel.md",
+    "General/Player Characters/Allison Smith.md",
+    "General/Player Characters/Stephen Buccheri.md",
+    "General/Player Characters/Barry Robinson.md",
+    "General/Player Characters/David P Cohle.md",
+    "Modules/Eye of Odin/Eye of Odin.md",
+    "Modules/Impossible Landscapes/Operation INDIA MOON.md",
+    "Modules/Impossible Landscapes/Handouts/The Message.md",
+    "Modules/Impossible Landscapes/Handouts/Attachments/144.The-Message.png",
+    "Modules/Impossible Landscapes/Handouts/The Invitation.md",
+    "Modules/Impossible Landscapes/Handouts/Attachments/147.Barbas.png",
+    "Modules/Impossible Landscapes/Handouts/Attachments/Patient File - Garth Whitmos.png",
+    "Modules/Impossible Landscapes/Handouts/Attachments/Patient File - Hideo Clavd.png",
+    "Modules/Impossible Landscapes/Handouts/Attachments/Patient File - Byron Sabrinor.png",
+    "Modules/Impossible Landscapes/Handouts/Attachments/Patient File - Simon Resphselle.png",
+    "Modules/Impossible Landscapes/Handouts/Attachments/Patient File - Misha Tollins.png",
+    "Modules/Impossible Landscapes/Locations/Attachments/dorchester house map.webp",
+    "Modules/Impossible Landscapes/Locations/Attachments/dorchester house map.png",
+    "Modules/Impossible Landscapes/Locations/Attachments",
+    "Modules/Impossible Landscapes/Locations",
+    "General/Player Characters/Attachments/M Sherpensel 2015.png",
+    "General/Player Characters/Attachments/~ Smith 2015.tmp",
+    "Modules/Impossible Landscapes/Handouts/Attachments/So_Youve_Read_the_Play_Red_Book.pdf",
+    "Modules/Impossible Landscapes/Handouts/Attachments/mr_wilde_mirror_painting.webp~",
+    "General/Untitled.base",
+    "Modules/Impossible Landscapes/People/Attachments",
+    "Modules/Impossible Landscapes/Handouts/Attachments/FBI_Case_File_Missing_Person_Abigail_Wright.pdf",
+    "Modules/Eye of Odin/People/Attachments/o70dszh5.png.~tmp",
+    "Modules/Eye of Odin/People/Attachments/~as-Safe-Registered-Engineer-2831237364.tmp"
+  ]
+}

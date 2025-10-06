@@ -1,0 +1,8 @@
+{
+  "cssTheme": "Minimal",
+  "accentColor": "#aa1d1d",
+  "baseFontSize": 16,
+  "enabledCssSnippets": [
+    "listspacing"
+  ]
+}

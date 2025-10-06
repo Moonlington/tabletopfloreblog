@@ -1,7 +1,7 @@
 baseURL = "https://www.tabletopflore.com/"
 languageCode = "en-us"
 theme = "poison"
-paginate = 10
+pagination.pagerSize = 10
 pluralizelisttitles = false   # removes the automatically appended "s" on sidebar entries
 
 refLinksErrorLevel = "WARNING"
@@ -118,3 +118,9 @@ refLinksNotFoundURL = "/404"
 [services]
   [services.googleAnalytics]
     id = 'G-7E7DG2KSTP'
+
+[module]
+  [[module.mounts]]
+    excludeFiles = 'templates/*'
+    source = 'content'
+    target = 'content'

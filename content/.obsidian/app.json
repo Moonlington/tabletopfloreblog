@@ -1,0 +1,8 @@
+{
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./Attachments",
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "propertiesInDocument": "hidden",
+  "useMarkdownLinks": true
+}
