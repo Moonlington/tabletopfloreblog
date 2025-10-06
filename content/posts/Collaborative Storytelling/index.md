@@ -1,6 +1,6 @@
 ---
 title: "True Essence of Tabletop Roleplaying Games: Collaborative Storytelling"
-date: 2024-11-30T23:23:56+01:00
+date: 2025-10-06
 draft: true
 ---
 

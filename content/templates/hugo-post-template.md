@@ -1,6 +1,6 @@
 ---
 title: {{title}}
-date: {{date:YYYY-MM-DD}}T{{time:HH:mm:ss}}Z
+date: {{date:YYYY-MM-DD}}
 draft: false
 tags: []
 categories: []

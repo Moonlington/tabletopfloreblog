@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/hugo-post-template.md",
+                "file": "about/about.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "hugo-post-template"
+              "title": "about"
             }
           }
         ],
@@ -153,10 +153,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "templates/hugo-post-template.md"
+                "file": "about/about.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for hugo-post-template"
+              "title": "File properties for about"
             }
           },
           {
@@ -215,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/hugo-post-template.md",
+                "file": "about/about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +225,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for hugo-post-template"
+              "title": "Backlinks for about"
             }
           },
           {
@@ -251,21 +251,24 @@
   "left-ribbon": {
     "hiddenItems": {
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "cmdr:Templates: Insert template": false
     }
   },
   "active": "128c6a4ddcee85b9",
   "lastOpenFiles": [
-    "posts/Agency, Ego, and Enjoyment Rethinking My Role in RPGs/index.md",
     "templates/hugo-post-template.md",
-    "templates",
+    "posts/Collaborative Storytelling/index.md",
+    "posts/Delta Green, my new favorite TTRPG/index.md",
+    "posts/Delta Green, my new favorite TTRPG",
+    "posts/Agency, Ego, and Enjoyment Rethinking My Role in RPGs/index.md",
     "posts/Agency, Ego, and Enjoyment Rethinking My Role in RPGs/img/mothership.png",
+    "templates",
     "Modules/Impossible Landscapes/Locations/Dorchester House Psychiatric Facility.md",
     "Modules/Impossible Landscapes/Locations/Gail Huston.md",
     "Modules/Impossible Landscapes/Locations/Ulrika Voors.md",
@@ -288,8 +291,6 @@
     "General/Player Characters/Barry Robinson.md",
     "General/Player Characters/David P Cohle.md",
     "Modules/Eye of Odin/Eye of Odin.md",
-    "Modules/Impossible Landscapes/Operation INDIA MOON.md",
-    "Modules/Impossible Landscapes/Handouts/The Message.md",
     "Modules/Impossible Landscapes/Handouts/Attachments/144.The-Message.png",
     "Modules/Impossible Landscapes/Handouts/Attachments/147.Barbas.png",
     "Modules/Impossible Landscapes/Handouts/Attachments/Patient File - Garth Whitmos.png",
@@ -306,7 +307,6 @@
     "Modules/Impossible Landscapes/Handouts/Attachments/mr_wilde_mirror_painting.webp~",
     "General/Untitled.base",
     "Modules/Impossible Landscapes/People/Attachments",
-    "Modules/Impossible Landscapes/Handouts/Attachments/FBI_Case_File_Missing_Person_Abigail_Wright.pdf",
-    "Modules/Eye of Odin/People/Attachments/o70dszh5.png.~tmp"
+    "Modules/Impossible Landscapes/Handouts/Attachments/FBI_Case_File_Missing_Person_Abigail_Wright.pdf"
   ]
 }
