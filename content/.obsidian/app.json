@@ -1,6 +1,6 @@
 {
   "newFileLocation": "current",
-  "attachmentFolderPath": "./Attachments",
+  "attachmentFolderPath": "./img",
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "propertiesInDocument": "hidden",

@@ -1,38 +1,9 @@
 {
-  "choices": [
-    {
-      "id": "ae70e8df-3528-42f9-86ff-0719d5492b87",
-      "name": "Add Session Note",
-      "type": "Template",
-      "command": false,
-      "templatePath": "General/Templates/Session Note",
-      "fileNameFormat": {
-        "enabled": false,
-        "format": ""
-      },
-      "folder": {
-        "enabled": false,
-        "folders": [],
-        "chooseWhenCreatingNote": false,
-        "createInSameFolderAsActiveFile": false,
-        "chooseFromSubfolders": false
-      },
-      "appendLink": false,
-      "openFileInNewTab": {
-        "enabled": false,
-        "direction": "vertical",
-        "focus": true
-      },
-      "openFile": true,
-      "openFileInMode": "default",
-      "fileExistsMode": "Increment the file name",
-      "setFileExistsBehavior": false
-    }
-  ],
+  "choices": [],
   "macros": [],
   "inputPrompt": "single-line",
   "devMode": false,
-  "templateFolderPath": "ZZZ - Templates",
+  "templateFolderPath": "templates",
   "announceUpdates": true,
   "version": "1.13.2",
   "disableOnlineFeatures": true,

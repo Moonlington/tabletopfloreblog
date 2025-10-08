@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/about.md",
+                "file": "posts/Collaborative Storytelling/index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "about"
+              "title": "index"
             }
           }
         ],
@@ -153,10 +153,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "about/about.md"
+                "file": "posts/Collaborative Storytelling/index.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for about"
+              "title": "File properties for index"
             }
           },
           {
@@ -180,13 +180,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Modules/Impossible Landscapes/Handouts/The Play (Macallistar).md",
+                "file": "posts/Collaborative Storytelling/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Play (Macallistar)"
+              "title": "Outline of index"
             }
           },
           {
@@ -202,6 +202,16 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "56efa2b605a3ae00",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ]
       },
@@ -215,7 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "about/about.md",
+                "file": "posts/Collaborative Storytelling/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +235,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for about"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -250,6 +260,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
@@ -257,16 +268,20 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "cmdr:Templates: Insert template": false
+      "cmdr:Templater: Create new note from template": false
     }
   },
   "active": "128c6a4ddcee85b9",
   "lastOpenFiles": [
-    "templates/hugo-post-template.md",
     "posts/Collaborative Storytelling/index.md",
-    "posts/Delta Green, my new favorite TTRPG/index.md",
-    "posts/Delta Green, my new favorite TTRPG",
     "posts/Agency, Ego, and Enjoyment Rethinking My Role in RPGs/index.md",
+    "templates/hugo-post-template.md",
+    "templates/Untitled.md",
+    "Untitled/index.md",
+    "Untitled",
+    "posts/Delta Green, my new favorite TTRPG/index.md",
+    "about/about.md",
+    "posts/Delta Green, my new favorite TTRPG",
     "posts/Agency, Ego, and Enjoyment Rethinking My Role in RPGs/img/mothership.png",
     "templates",
     "Modules/Impossible Landscapes/Locations/Dorchester House Psychiatric Facility.md",
@@ -288,9 +303,6 @@
     "General/Player Characters/Milos Sherpensel.md",
     "General/Player Characters/Allison Smith.md",
     "General/Player Characters/Stephen Buccheri.md",
-    "General/Player Characters/Barry Robinson.md",
-    "General/Player Characters/David P Cohle.md",
-    "Modules/Eye of Odin/Eye of Odin.md",
     "Modules/Impossible Landscapes/Handouts/Attachments/144.The-Message.png",
     "Modules/Impossible Landscapes/Handouts/Attachments/147.Barbas.png",
     "Modules/Impossible Landscapes/Handouts/Attachments/Patient File - Garth Whitmos.png",
@@ -306,7 +318,6 @@
     "Modules/Impossible Landscapes/Handouts/Attachments/So_Youve_Read_the_Play_Red_Book.pdf",
     "Modules/Impossible Landscapes/Handouts/Attachments/mr_wilde_mirror_painting.webp~",
     "General/Untitled.base",
-    "Modules/Impossible Landscapes/People/Attachments",
-    "Modules/Impossible Landscapes/Handouts/Attachments/FBI_Case_File_Missing_Person_Abigail_Wright.pdf"
+    "Modules/Impossible Landscapes/People/Attachments"
   ]
 }

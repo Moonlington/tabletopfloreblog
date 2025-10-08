@@ -6,10 +6,11 @@
   "fileMenu": [],
   "leftRibbon": [
     {
-      "id": "insert-template",
-      "icon": "lucide-copy",
-      "name": "Templates: Insert template",
-      "mode": "any"
+      "id": "templater-obsidian:create-new-note-from-template",
+      "icon": "templater-icon",
+      "name": "Templater: Create new note from template",
+      "mode": "any",
+      "color": "#ff0000"
     }
   ],
   "rightRibbon": [],

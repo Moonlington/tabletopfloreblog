@@ -1,7 +1,7 @@
 ---
-title: {{title}}
-date: {{date:YYYY-MM-DD}}
-draft: false
+title: <% tp.file.folder() %>
+date: <% tp.date.now() %>
+draft: true
 tags: []
 categories: []
 ---
