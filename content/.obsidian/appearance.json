@@ -4,5 +4,6 @@
   "baseFontSize": 16,
   "enabledCssSnippets": [
     "listspacing"
-  ]
+  ],
+  "theme": "obsidian"
 }
