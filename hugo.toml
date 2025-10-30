@@ -95,9 +95,9 @@ refLinksNotFoundURL = "/404"
     code_background_color_dark = "#393D47"  # default is #393D47
 
     # NOTE: If using Remark42 as commenting engine, uncomment and configure these lines
-    # remark42 = true
-    # remark42_host = "https://yourhost.com"
-    # remark42_site_id = "your_site_id"
+    remark42 = true
+    remark42_host = "https://remark42.tabletopflore.com"
+    remark42_site_id = "tabletopflore"
 
     # NOTE: The following three params are optional and are used to create meta tags + enhance SEO.
     og_image = "/img/Red Logo.png"                       # path to social icon - front matter: image takes precedent, then og_image, then brand_url
