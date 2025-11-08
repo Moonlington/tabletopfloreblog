@@ -9,7 +9,7 @@
                 <li class="heading">{{ $menu_item.Name }}</li>
             {{ else if $menu_item.External }}
                 <li class="heading">
-                    <a href="{{ $menu_item.URL }}">{{ $menu_item.Name }}</a>
+                    <a href="{{ $menu_item.URL }}" target="_blank" rel="noopener noreferrer">{{ $menu_item.Name }}</a>
                 </li>
             {{ end }}
 

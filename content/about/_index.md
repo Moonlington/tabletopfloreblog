@@ -1,5 +1,5 @@
 ---
-title: "About me and this blog"
+title: "About"
 date: 2021-11-24T12:01:39+01:00
 layout: single
 ---

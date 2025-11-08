@@ -9,7 +9,7 @@
   {{ .Scratch.Set "title" $.Site.Params.brand }}
   {{ .Scratch.Set "description" .Site.Params.Description }}
 {{ else }}
-  {{ .Scratch.Set "description" (partial "better-summary.html" .) }}
+  {{ .Scratch.Set "description" .Summary }}
 {{ end }} 
 
 {{ if .IsSection }}
