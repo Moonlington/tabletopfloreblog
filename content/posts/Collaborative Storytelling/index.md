@@ -48,7 +48,7 @@ As a GM, this information is invaluable. It shows what players truly want for th
 
 So how do you build this kind of engagement intentionally?
 ### 1. Introduce Proactive Goals
-Borrowing from the _Proactive Roleplaying_ framework, encourage each player to define **three personal goals** for their character: short-term, mid-term, and long-term. These can evolve over time. Then, as the GM, build your sessions around opportunities for those goals to intersect with each other, with the world, or with the campaign’s larger themes.
+Encourage each player to define a few goals for their character: short-term, mid-term, and long-term. These can evolve and be added to over time. Then, as the GM, build your sessions around opportunities for those goals to intersect with each other, with the world, or with the campaign’s larger themes.
 
 This changes your prep from “designing a story” to “setting the stage” for players to tell their stories _through action._
 ### 2. Build Characters into the World
