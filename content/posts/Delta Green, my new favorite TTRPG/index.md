@@ -7,3 +7,4 @@ tags:
 categories:
   - deltagreen
 ---
+Ever since April of 2025, when my friend mentioned this TTRPG in my vicinity, I have slowly but surely been consumed by Delta Green
