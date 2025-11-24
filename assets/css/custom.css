@@ -1,5 +1,8 @@
 .sidebar-about img {
     border: none;
+    border-radius: unset;
+    height: auto;
+    width: auto;
 }
 
 .sidebar-about h1 {
