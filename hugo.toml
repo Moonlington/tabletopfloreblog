@@ -15,7 +15,7 @@ refLinksNotFoundURL = "/404"
 
 [params]
     brand = "Flore's Insignificant Thoughts"                      # name of your site - appears in the sidebar
-    brand_image = "/img/Red Logo.png"    # path to the image shown in the sidebar
+    brand_image = "/img/logo.png"    # path to the image shown in the sidebar
     description = "Musings about TTRPGs and Worldbuilding" # Used as default meta description if not specified in front matter
     dark_mode = true                      # optional - defaults to false
     favicon = "/android-chrome-512x512.png"             # path to favicon (defaults to favicon.png)
