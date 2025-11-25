@@ -6,8 +6,6 @@ tags:
   - deltagreen
 categories:
   - deltagreen
-build:
-  list: never
 ---
 Ever since April 2025, when a friend first mentioned this TTRPG to me, I’ve slowly but surely been consumed by the Delta Green roleplaying game. It quickly became my de facto roleplaying game. After finishing my **Impossible Landscapes** campaign, preparing to start a new one called **Echo Chamber**, and writing my own short operation, **Slaughterhouse**, I felt compelled to spread the word about this fantastic system. So here I am.
 <!--more-->
