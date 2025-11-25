@@ -84,6 +84,7 @@ I asked my players if they wanted to add something to the article themselves abo
 >
 >To close, the too long; did not read is I love my friends and Flore put his heart and soul into this, and I hope he can see how much we appreciated his effort.
 
+![Our Miro Board](img/miro.png "The Miro Board for our campaign, organized entirely by my players.")
 ## What's next for me?
 As I mentioned in the introduction, I’m currently outlining a new campaign for my friends called **Echo Chamber**, which draws operations from **A Night at the Opera**, **Black Sites**, **Dead Drops**, and **The Labyrinth**, weaving them into a single overarching narrative.
 
