@@ -41,7 +41,7 @@ Now that I’ve finished the campaign as a Handler (Delta Green’s Game Master)
 >
 >And that place is nowhere.
 
-This quote, taken from Delta Green's official [About page](https://www.delta-green.com/about/) expertly sets the tone for the game. It's dark, it's depressing, it's bleak, but the characters keep on fighting for our own personal motivations.
+This quote, taken from Delta Green's official [About page](https://www.delta-green.com/about/) expertly sets the tone for the game. It's dark, it's depressing, it's bleak, but the characters keep on fighting for their own personal motivations.
 
 In contrast to Call of Cthulhu's setting of the Roaring 20s where you play as old-timey investigators, Delta Green takes modern-day government workers brought into the covert group whose mission is to investigate, contain, and conceal unnatural incursions and asks very tough choices from them. How do you deal with the unnatural, while also keeping it a secret from everyone? How do you convince local law enforcement that nothing out of the ordinary is going on? On who do you pin the deaths the monster has caused? It's less 'this is a scary thing' horror and more 'how can I live with myself?' horror. 
 
