@@ -28,6 +28,8 @@ The GM responds to players’ disinterest by tightening control. The players, se
 A reactive story is one where only one side, usually the GM, moves the plot forward. Players _react_ to the prewritten content but don’t meaningfully change it. It feels less like a conversation and more like watching someone else’s story unfold.
 
 I’ve realized that the more my games became reactive, the more disconnected I felt from the people I was playing with. In those moments we weren’t telling a story _together_; I was telling _my_ story, and the others were just actors in it.
+
+To this day I still struggle with this problem. I would love to have more sessions where I can set the scene and watch the players play as their characters in it. Even as a player I feel it too, where I would love to have the space and freedom to express myself in character without being bound by the tight schedule of a TTRPG session. It goes both ways in the social contract that we sign for playing roleplaying games.
 ## Effects of Engagement
 When players and GMs are truly collaborating, you can feel the creative energy flowing through everyone at the table. It’s in the pauses between dialogue, the sudden shift when someone introduces a new twist that just _clicks_, and everyone leans closer.
 
@@ -40,9 +42,11 @@ Engagement creates:
 
 When players are engaged, my workload as a GM actually _decreases._ I prep less because I know my players will fill in the gaps. I am not Atlas carrying the world on my back; we’re all holding it up together.
 
-A concept I recently came across is **Proactive Fun**, from _The Game Master’s Handbook of Proactive Roleplaying_ by Jonah and Tristan Fishel. It focuses on encouraging players to take initiative in setting personal goals for their characters to pursue and complete. These can be short-term goals (“I want to get out of jail”) or long-term goals (“I want to break the curse plaguing my family line”), but they are always meaningful and energizing for the player.
+While playing in a Pathfinder 2nd Edition game that my friend is running, he introduced us players to the concept of **Proactive Fun**, taken from _The Game Master’s Handbook of Proactive Roleplaying_ by Jonah and Tristan Fishel. It focuses on encouraging players to take initiative in setting personal goals for their characters to pursue and complete. 
 
-As a GM, this information is invaluable. It shows what players truly want for their characters and provides natural stepping stones for future prep. Proactive Fun shifts storytelling from being reactive to genuinely collaborative.
+These can be short-term goals (“I want to get out of jail”) or long-term goals (“I want to break the curse plaguing my family line”), but they are always meaningful and—most importantly—energizing for the player.
+
+As a GM, this information is invaluable! It shows what players truly want for their characters and provides natural stepping stones for future prep. It shifts storytelling from being reactive to a more collaborative setting. Definitely a tool I want to use in the future.
 
 ## Leveraging This in Your Games
 
@@ -50,14 +54,18 @@ So how do you build this kind of engagement intentionally?
 ### 1. Introduce Proactive Goals
 Encourage each player to define a few goals for their character: short-term, mid-term, and long-term. These can evolve and be added to over time. Then, as the GM, build your sessions around opportunities for those goals to intersect with each other, with the world, or with the campaign’s larger themes.
 
-This changes your prep from “designing a story” to “setting the stage” for players to tell their stories _through action._
+This changes your prep from “designing a story” to “setting the stage” for players to tell their stories _through action_. It also reduces your prep-work as you _know_ what your players and their characters want.
 ### 2. Build Characters into the World
-Don’t just place player characters inside your plot. Let their goals, relationships, and fears shape the world around them. Their choices should matter. You should be the characters biggest fan.
-### 3. Focus on “Play,” Not “Performance”
-You don’t need cinematic perfection. Collaborative storytelling thrives on curiosity and openness, not polish.
-## Closing Thoughts
-When players have clear goals and the agency to pursue them, they stop being passengers in your story and start being co-authors. Looking back on my earlier reflections about ego and agency, I realize that collaborative storytelling balances both.
+Don’t just place player characters inside your plot. Let their goals, relationships, and fears shape the world around them. Their choices should matter. 
 
-When everyone at the table becomes proactive, the story no longer belongs to any one person. It belongs to all of us.
+You should be the characters biggest fan.
+### 3. Focus on “Play,” Not “Performance”
+You don’t need cinematic perfection. Collaborative storytelling thrives on curiosity and openness, not polish. A lot of TTRPGs thrive on both sides of the table not knowing what is going to happen. Let yourself be surprised by your players, or implement more randomness in your prep-work, like random tables. 
+
+This also reduces the chance that you fall into the common pitfall trap of 'writing a story' instead of 'running a game.'
+## Closing Thoughts
+When players are engaged in your TTRPG game, they stop being passengers in your story and start being co-authors. Looking back on my earlier reflections about ego and agency, I realize that collaborative storytelling balances both.
+
+When everyone at the table becomes engaged, the story no longer belongs to any one person. It belongs to all of us.
 
 That’s where the fun really lives.
