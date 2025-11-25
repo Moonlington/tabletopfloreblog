@@ -11,7 +11,7 @@ build:
 ---
 Ever since April 2025, when a friend first mentioned this TTRPG to me, I’ve slowly but surely been consumed by the Delta Green roleplaying game. It quickly became my de facto roleplaying game. After finishing my **Impossible Landscapes** campaign, preparing to start a new one called **Echo Chamber**, and writing my own short operation, **Slaughterhouse**, I felt compelled to spread the word about this fantastic system. So here I am.
 <!--more-->
-![](img/terror.png "Image credit: Arc Dream Publishing")
+![](img/dgterror.png "Image credit: Arc Dream Publishing")
 
 ## How I got into Delta Green
 I started off with Dungeons & Dragons 5th Edition and moved on to fantasy games like Pathfinder 2nd Edition, while also experimenting with titles such as Mothership and Blades in the Dark for a different vibe. Thinking back, I’ve always loved horror elements in roleplaying games, and I kept implementing them into the games I ran. I’ve never run Call of Cthulhu, though I did play in a short campaign... and I wasn’t much of a fan. It felt too pulpy for me, and the subject matter never felt particularly horrifying.
