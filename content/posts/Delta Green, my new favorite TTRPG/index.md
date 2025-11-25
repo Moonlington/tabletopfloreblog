@@ -70,7 +70,9 @@ Anyhow, tangent over.
 
 ![](img/ILImage.png "Image credit: Arc Dream Publishing")
 ## What do my players think of Delta Green?
-I asked my players if they wanted to add something to the article themselves about their experiences with Delta Green and our Impossible Landscapes campaign. One player sent me a long reflection, and I want to include it in full because it meant a lot to me:
+I asked my players if they wanted to add something to the article themselves about their experiences with Delta Green and our Impossible Landscapes campaign. 
+
+One player sent me a long reflection, and I want to include it in full because it meant a lot to me:
 >Today, unprompted by Flore and mostly reminiscing about the campaign and enjoying the attention of me making our friend Matin cry after her helplessness to save my character, I was thinking that Delta Green, in my opinion, probably got us to bond more together—which is very ironic about it considering the self-destruction of your character’s bonds with others!
 >
 >I mentioned it on a bsky post to Detwiller (co-creator of Delta Green and author of Impossible Landscapes (IL)) that I was eyeing up Delta Green for years but never made a jump. Flore had dived in on my behalf, and I followed into a strange labyrinth of surreal horror that IL sets up (coincidentally my favourite type of horror!). I absolutely adored the experience, it was a blast, and I am so proud of Flore being able to run it smoothly from start to finish after being a witness to his Dungeons & Dragons campaigns and the lack of motivated people at the table who aren’t him or myself. It was really inspiring.
@@ -80,6 +82,11 @@ I asked my players if they wanted to add something to the article themselves abo
 >I just finished running BLACKSAT from Control Group in my own group and despite reading the adventure twice before running I felt like I was stumbling following a pre-written adventure which is not my usual forte. HUGE respect for Flore.
 >
 >To close, the too long; did not read is I love my friends and Flore put his heart and soul into this, and I hope he can see how much we appreciated his effort.
+
+Another one of my players said this:
+> Big fan of the bonds/sanity system because it allows for organic storytelling and makes a gameplay aspect a story aspect as well (if you have no-one any more you go nuts more easily, makes sense). I think one thing I disliked isn't really a problem with the system but more with my mindset going in, the dnd-type mindset where you're trying to look at inventory and stats and trying to use all that because it's there - you generally don't need to.
+>
+>THAT SAID I do think there's WAY too many skills and they could be a bit more generalized, like even if points are kind of fake it does feel bad to make your character great at heavy machinery which then just straight up doesn't come up. It feels like an artifact of an older, more classic ttrpg. The most fun ones are the bonus art/language ones, there should be more of that (like weird specializations that only come up once but are relevant in the moment).
 
 ![Our Miro Board](img/miro.png "The Miro Board for our campaign, organized entirely by my players.")
 ## What's next for me?
