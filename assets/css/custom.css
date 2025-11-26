@@ -5,6 +5,10 @@
     width: auto;
 }
 
+.bullet {
+    margin-bottom: 0.5em
+}
+
 .sidebar-about h1 {
     font-size: 1.4em;
     font-family: "Fira Sans", sans-serif;

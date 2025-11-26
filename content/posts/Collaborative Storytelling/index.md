@@ -3,6 +3,8 @@ title: "True Essence of Tabletop Roleplaying Games: Collaborative Storytelling"
 date: 2025-11-08
 draft: false
 tags:
+  - ttrpg
+  - advice
   - tips
 ---
 Following my previous blogpost on my personal experiences with tabletop roleplaying games, [Agency, Ego, and Enjoyment: Rethinking My TTRPGs and Myself]({{< ref "Agency, Ego, and Enjoyment Rethinking My Role in RPGs" >}}), I had an interesting chat with a friend of mine about what specifically I find is _fun_ in this hobby.

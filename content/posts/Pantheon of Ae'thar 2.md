@@ -1,11 +1,10 @@
 ---
 title: "Pantheon of Ae'thar: More Deities, Story, and Culture"
 date: "2021-08-04"
-categories:
+tags:
     - "dnd5e"
     - "ttrpg"
     - "worldbuilding"
-tags:
     - "halcyon"
     - "religion"
 series: "Designing a Pantheon"

@@ -1,11 +1,10 @@
 ---
 title: "Pantheon of Ae'thar"
 date: "2021-07-31"
-categories:
+tags:
     - "dnd5e"
     - "ttrpg"
     - "worldbuilding"
-tags:
     - "halcyon"
     - "religion"
 series: "Designing a Pantheon"

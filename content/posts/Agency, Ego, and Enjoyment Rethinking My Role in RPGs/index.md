@@ -2,6 +2,9 @@
 title: "Agency, Ego, and Enjoyment: Rethinking My TTRPGs and Myself"
 slug: "agency-ego-enjoyment"
 date: 2024-11-26
+tags:
+    - personal
+    - ttrpg
 ---
 
 Hi all, it has been a while. A lot has happened in the years I did not write for my blog, like graduating and relationship things. I would like to write about the journey I went on playing roleplaying games and what I have personally learnt from them. See this as a journey throughout my experience with tabletop roleplaying games, but also as a vent piece. I just need to get things off my head. The post might feel aimless, and I am aware of this, this is more for me.

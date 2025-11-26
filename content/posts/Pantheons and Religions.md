@@ -1,10 +1,9 @@
 ---
 title: "Pantheons and Religions"
 date: "2021-07-17"
-categories:
+tags:
     - "ttrpg"
     - "worldbuilding"
-tags:
     - "eden"
     - "halcyon"
     - "religion"
