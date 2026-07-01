@@ -15,7 +15,8 @@ I've been thinking about why my current TTRPG folder looks the way it does.
 My worldbuilding has drifted towards bleaker tones. My recent campaigns have leaned into horror, into impossible choices. Delta Green has consumed my entire year. I'm currently reading Cyberpunk RED because of the new season of Edgerunners coming out and finding myself drawn to the collapse of society it portrays. When I sat down to write my own scenario, Chrysalis (and parts of Melissae), I wrote about teenagers who transform into monsters in their sleep and kill without remembering. And I didn't really think twice about it to be honest.
 
 I don't have a clean answer for why and I'm not sure I want one. There are things that darker themes in stories give you that heroic fantasy simply cannot reach. That gap is what I want to talk about in this post.
-
+<!--more-->
+![](img/2PhsBXP.png "Image credit: Arc Dream Publishing")
 ## The pull
 
 Dark stories aren't about shock value. If they were, they'd be boring after the first hit and they're also a weak form of storytelling that comes across more as 'edgy' than intentional. What they actually do is strip away the padding. Heroic fantasy gives you a world where problems can be solved by being strong enough or clever enough. Darker stories give you a world where those things might not matter. Where you can do everything right and still lose. Where the question isn't "will the hero win?" but "what is the hero willing to become?"
@@ -35,6 +36,8 @@ But the flip side is just as real. How do you look at your teammate when you kno
 ## God's Teeth
 
 God's Teeth is probably the darkest Delta Green campaign Arc Dream has published. The book opens with a content warning printed right on the back cover: "This campaign confronts the horrors of violence against children." Before the rules, before the scenario, before anything else. The warning is the introduction.
+
+![](img/52Pevju.png "From God's Teeth — Image credit: Arc Dream Publishing")
 
 I'm not going to spoil the campaign. What I want to talk about is why it exists at all, because the answer is in two versions of Caleb Stokes' afterword, an early draft and the published version, and the differences between them say as much as the words themselves.
 
@@ -56,7 +59,7 @@ The draft afterword also has a postscript, written in August 2020 as Stokes prep
 
 I think about the gap between these two versions a lot. The draft is the thing you write when you're still burning. The published version is the thing you write after you've sat with the fire long enough to shape it. Both are honest. One is honest about rage. The other is honest about what rage costs.
 
-I really want to run God's Teeth for my group. I think it is an important piece of media.
+I really want to run God's Teeth for my group. I think it's an important piece of media.
 
 ## A different darkness
 
@@ -64,17 +67,15 @@ If Delta Green's darkness is cosmic and inevitable, Cyberpunk RED's is the oppos
 
 The Cyberpunk RED corebook is direct about what it is: "The traditional concepts of good and evil have been replaced by the values of expedience: you do what you have to survive." The three rules of Cyberpunk are Style Over Substance, Attitude Is Everything, and Live on the Edge. These aren't character traits. They're survival strategies in a world where the middle class has been erased, 21 million people were homeless before the Collapse even started, and the sky is literally red from the aftereffects of the war.
 
-What gets me about Cyberpunk RED compared to Delta Green is that the darkness is something you opt into. Nobody chooses to encounter the unnatural. Nobody chooses to have their SAN shattered by something beyond comprehension. But in Cyberpunk, you choose to chip in. You choose to replace parts of your body with chrome. You choose to push your humanity score closer to zero, knowing that when it hits zero, you're gone; not dead, but something else. Cyberpsychosis isn't something that happens to you. It's something you do to yourself, one piece of chrome at a time, because the edge you get might keep you alive one more day.
+What gets me about Cyberpunk RED compared to Delta Green is that the darkness is something you opt into. Nobody chooses to encounter the unnatural. Nobody chooses to have their SAN shattered by something beyond comprehension. But in Cyberpunk, you choose to chip in. You choose to replace parts of your body with chrome. You choose to push your humanity score closer to zero, knowing that when it hits zero, you're gone; not dead, but something else. Cyberpsychosis isn't something that happens to you. It's something you do to yourself, one piece at a time, because the edge you get might keep you alive one more day.
 
-The game calls its characters "the heroes of a bad situation, working to make it better (or at least survivable) whenever they can." That "or at least survivable" is doing a lot of work. Delta Green agents fight for a world that doesn't know they exist. Cyberpunks fight for a world that actively wants them dead and calls it economics. Where Delta Green asks "how do you live with yourself after what you've done?", Cyberpunk RED asks "how much of yourself are you willing to sell to keep living?" Both are questions about the cost of survival. They just invoice you differently.
+The game calls its characters "the heroes of a bad situation, working to make it better (or at least survivable) whenever they can." Delta Green agents fight for a world that doesn't know they exist. Cyberpunks fight for a world that actively wants them dead and calls it economics. Cyberpunk asks "how much of yourself are you willing to sell to keep living?"
 
 I keep thinking about what makes these two games feel like they're asking the same question from opposite directions. Delta Green's horror is external. Vast forces beyond human comprehension regard humanity the way a whale regards plankton. Your choices matter to you and the people you love, but in the grand scheme they barely register. Cyberpunk RED's horror is the reverse: humans built the systems that destroyed the world. The monsters are corporations, governments, and the person you become when you stop caring.
 
-Both games turn the thing they want you to protect into a number on a sheet. Delta Green has Bonds: the people who make life worth living, even as the job keeps taking bites out of those relationships. Cyberpunk RED has Humanity: the part of you that stays human no matter how much metal you bolt on, measured in points that tick down with every implant. Both make it cost something to keep it. One game tells you the universe doesn't care, so you have to. The other tells you that people stopped caring, so you have to start.
-
 ## Bringing it back to fantasy
 
-I still run D&D. I still run Pathfinder. I don't think dark games replaced heroic fantasy for me. But I've been thinking about how to bring some of what I've learned back into those systems.
+I still want to run D&D 5.5e. I still want to run Pathfinder 2e. I don't think darker games replaced fantasy for me. But I've been thinking about how to bring some of what I've learned back into those systems.
 
 The problem with heroic fantasy isn't the heroism. It's that the systems treat consequences like something you can long rest away. Hit points come back. Spells reset. Death is a gold cost and a quick trip to the nearest temple. There's nothing wrong with that — it's what the games are for. But if you want moments that linger past the session, you have to build them yourself, because the rules won't do it for you.
 
