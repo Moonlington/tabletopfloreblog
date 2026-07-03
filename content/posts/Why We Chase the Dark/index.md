@@ -12,18 +12,18 @@ tags:
 
 I've been thinking about why my current TTRPG folder looks the way it does.
 
-My worldbuilding has drifted towards bleaker tones. My recent campaigns have leaned into horror, into impossible choices. Delta Green has consumed my entire year. I'm currently reading Cyberpunk RED because of the new season of Edgerunners coming out and finding myself drawn to the collapse of society it portrays. When I sat down to write my own scenario, Chrysalis (and parts of Melissae), I wrote about teenagers who transform into monsters in their sleep and kill without remembering. And I didn't really think twice about it to be honest.
+My worldbuilding has drifted towards bleaker tones. My recent campaigns have leaned into horror, into impossible choices. Delta Green has consumed my entire year. I'm currently reading Cyberpunk RED because of the new season of Edgerunners coming out. I'm finding myself drawn to the collapse of society it portrays. When I sat down to write my own scenario, Chrysalis (and parts of Melissae), I wrote about teenagers who transform into monsters in their sleep and kill without remembering. And I didn't really think twice about it to be honest.
 
-I don't have a clean answer for why and I'm not sure I want one. There are things that darker themes in stories give you that heroic fantasy simply cannot reach. That gap is what I want to talk about in this post.
+I don't have a clean answer for why, and I'm not sure I want one. There are things that darker themes in stories give you that heroic fantasy simply cannot reach. That gap is what I want to talk about in this post.
 <!--more-->
 ![](img/2PhsBXP.png "Image credit: Arc Dream Publishing")
 ## The pull
 
-Dark stories aren't about shock value. If they were, they'd be boring after the first hit and they're also a weak form of storytelling that comes across more as 'edgy' than intentional. What they actually do is strip away the padding. Heroic fantasy gives you a world where problems can be solved by being strong enough or clever enough. Darker stories give you a world where those things might not matter. Where you can do everything right and still lose. Where the question isn't "will the hero win?" but "what is the hero willing to become?"
+Dark stories aren't about shock value. If they were, they'd be boring after the first hit. It's also just weak storytelling — more edgy than intentional. What they actually do is strip away the padding. Heroic fantasy gives you a world where problems can be solved by being strong enough or clever enough. Darker stories give you a world where those things might not matter. Where you can do everything right and still lose. Where the question isn't "will the hero win?" but "what is the hero willing to become?"
 
 When I wrote about Delta Green some time ago, I talked about how its Handler's Guide opens by telling you that the game is about the end of humanity and that it straight up lies about being about anything else. That's not marketing. _That's a promise_. The book tells you this game will not make you feel powerful. It will make you feel small, and then it will ask you what you do with that feeling.
 
-I think that's what pulls me in. Not the misery itself, but the question that comes after. When the universe doesn't care about you, when doing the right thing costs more than you can afford. What do you hold onto? Typical heroic fantasy doesn't need to ask that question, it can assume the good guys win. These stories can't. They have to earn whatever hope they find.
+I think that's what pulls me in. Not the misery itself, but the question that comes after. When the universe doesn't care about you, when doing the right thing costs more than you can afford. What do you hold onto? Typical heroic fantasy doesn't need to ask that question. It can assume the good guys win. These stories can't. They have to earn whatever hope they find.
 
 The most intense moments I've had during my TTRPG sessions have all come from walking into the dark together. When a player looks at another player and neither of them knows what their character is going to do next. That's not tension you can script. That's the shared vulnerability of not knowing if things will be okay. It's the opposite of a power fantasy, and it's probably the most alive I've ever felt in this hobby.
 
@@ -55,7 +55,7 @@ The draft afterword also has a postscript, written in August 2020 as Stokes prep
 
 > *America doesn't just neglect children. It hates them. It finds their needs and lack of productivity disgusting. It loathes their weakness. I'm sorry if you heard this first from an RPG book, but the American empire runs on pain. Welcome to America. We kill kids here. And worse. We don't need a bogeyman, legends, or monsters. It's all legal.*
 
-"The American empire runs on pain." is a devastatingly raw quote from Stokes, personally I wish it was in the final book. The published afterword ends differently. Quieter. It acknowledges something the draft doesn't: "And who can forget the realization that your portion of this pain is counterfeit? No matter how real it may feel, it pales in comparison. It's nothing compared to the real suffering that inspired it."
+"The American empire runs on pain." is a devastatingly raw quote from Stokes. Personally I wish it was in the final book. The published afterword ends differently. Quieter. It acknowledges something the draft doesn't: "And who can forget the realization that your portion of this pain is counterfeit? No matter how real it may feel, it pales in comparison. It's nothing compared to the real suffering that inspired it."
 
 I think about the gap between these two versions a lot. The draft is the thing you write when you're still burning. The published version is the thing you write after you've sat with the fire long enough to shape it. Both are honest. One is honest about rage. The other is honest about what rage costs.
 
@@ -67,7 +67,9 @@ If Delta Green's darkness is cosmic and inevitable, Cyberpunk RED's is the oppos
 
 The Cyberpunk RED corebook is direct about what it is: "The traditional concepts of good and evil have been replaced by the values of expedience: you do what you have to survive." The three rules of Cyberpunk are Style Over Substance, Attitude Is Everything, and Live on the Edge. These aren't character traits. They're survival strategies in a world where the middle class has been erased, 21 million people were homeless before the Collapse even started, and the sky is literally red from the aftereffects of the war.
 
-What gets me about Cyberpunk RED compared to Delta Green is that the darkness is something you opt into. Nobody chooses to encounter the unnatural. Nobody chooses to have their SAN shattered by something beyond comprehension. But in Cyberpunk, you choose to chip in. You choose to replace parts of your body with chrome. You choose to push your humanity score closer to zero, knowing that when it hits zero, you're gone; not dead, but something else. Cyberpsychosis isn't something that happens to you. It's something you do to yourself, one piece at a time, because the edge you get might keep you alive one more day.
+What gets me about Cyberpunk RED compared to Delta Green is that the darkness is something you opt into. Nobody chooses to encounter the unnatural. Nobody chooses to have their SAN shattered by something beyond comprehension. But in Cyberpunk, you choose to chip in. You choose to replace parts of your body with chrome. You choose to push your humanity score closer to zero, knowing that when it hits zero, you're gone; not dead, but something else. Cyberpsychosis isn't something that happens to you. It's something you do to yourself, one piece of chrome at a time, because the edge you get might keep you alive one more day.
+
+![](img/9HANosa.png "Image Credit: Neil Branquinho (from Cyberpunk RED)")
 
 The game calls its characters "the heroes of a bad situation, working to make it better (or at least survivable) whenever they can." Delta Green agents fight for a world that doesn't know they exist. Cyberpunks fight for a world that actively wants them dead and calls it economics. Cyberpunk asks "how much of yourself are you willing to sell to keep living?"
 
@@ -77,42 +79,56 @@ I keep thinking about what makes these two games feel like they're asking the sa
 
 I still want to run D&D 5.5e. I still want to run Pathfinder 2e. I don't think darker games replaced fantasy for me. But I've been thinking about how to bring some of what I've learned back into those systems.
 
-The problem with heroic fantasy isn't the heroism. It's that the systems treat consequences like something you can long rest away. Hit points come back. Spells reset. Death is a gold cost and a quick trip to the nearest temple. There's nothing wrong with that — it's what the games are for. But if you want moments that linger past the session, you have to build them yourself, because the rules won't do it for you.
+The problem with heroic fantasy isn't the heroism. It's that, if you run them as written, the systems treat consequences like something you can long rest away. Hit points come back. Spells reset. Death is a gold cost and a quick trip to the nearest temple. There's nothing wrong with that. It's what the games are for. But if you want moments that linger past the session, you have to build them yourself as the DM, because the rules won't do it for you.
 
-A few things I want to try in my next fantasy campaign.
+A few things I want to try in my next campaign.
 
-Let failure stick sometimes. Not every time. Not to be cruel. But when the party loses a fight or makes a bad call, let the world remember it. The village that got burned because they took too long stays burned. The NPC who trusted them and got hurt doesn't forgive them in the next scene. You don't need lingering injuries or Sanity points to make this work. You just need to stop resetting the world between sessions.
+Let failure stick. Not every time and not to be cruel. But when the party loses a fight or makes a bad call, let the world remember it. The village that got burned because they took too long stays burned. The NPC who trusted them and got hurt doesn't forgive them in the next scene. You don't need lingering injuries or Sanity points to make this work. You just need to stop mentally resetting the world between sessions.
 
-Give the villain a reason that makes the players pause. Not "they're secretly right," but something messier. They're protecting someone. They're acting on information the players don't have yet. They started with good intentions and lost their way somewhere they can't even identify anymore. The best fights I've run weren't satisfying because the players crushed the bad guy. They were satisfying because winning felt complicated.
+Give the antagonists a reason that makes the players pause. Not "they're secretly right," but it should be messier. They're protecting someone. They're acting on information the players don't have yet. They started with good intentions and lost their way somewhere they can't even identify anymore. 
 
 Let the players care about things the system doesn't track. A relationship with an NPC doesn't need a Bond score to matter. A choice that weighs on a character doesn't need a Sanity mechanic. You just have to treat it like it's real and see if the players do too. Sometimes they won't. But when they do, that stuff sticks harder than any number on a character sheet.
 
-None of this turns D&D into Delta Green. That's not the point. Heroic fantasy does something dark games don't — it lets you believe things can get better, that people can win, that the world is worth saving. I still want that. I just want the victories to feel like they cost something. I want the hope to mean more because it wasn't guaranteed.
+None of this turns D&D into Delta Green. That's not the point. Heroic fantasy does something darker games don't. It lets you believe things can get better, that people can win, that the world is worth saving. I still want that. I just want the victories to feel like they cost something. I want the hope to mean more because it wasn't guaranteed.
+
+The way I'm trying to make this work is by giving my players a real say in the type of game they want to play. Not just in terms of character creation, or "making the world provide for the player character," but asking them what kind of story they are interested in, what types of fiction do they want to partake in. It's more abstract, but if pulled off correctly, I think I might be able to make lasting memories.
 
 ## Running dark games
 
 I've learned some things running this kind of material. Some of them the hard way.
 
-You can't skip safety tools when you go dark. You just can't. The Handler's Guide says it plainly: "Set and maintain this mood at all costs. It is only from this backdrop of risk that the fun of surviving to fight another day truly shines." But mood-setting means nothing if your players don't trust you. And trust means knowing where the lines are before you get anywhere near them. The God's Teeth warning isn't just for Handlers. "Talk to your players, each individually. They may have limits that are unknown to you because the matter never came up." That's the standard. Not a form. A conversation.
+You can't skip safety tools when you go dark. You just can't. The Handler's Guide in Delta Green says it plainly: "Set and maintain this mood at all costs. It is only from this backdrop of risk that the fun of surviving to fight another day truly shines." But mood-setting means nothing if your players don't trust you. And trust means knowing where the lines are before you get anywhere near them. The God's Teeth warning isn't just for Handlers. "Talk to your players, each individually. They may have limits that are unknown to you because the matter never came up." That's the standard: a conversation, not just a form. 
 
-I ran Impossible Landscapes for most of 2025. It's a surreal horror campaign that takes place across decades, where reality itself becomes unreliable and the King in Yellow bleeds through the cracks. That campaign taught me something about pacing darkness. You can't sustain maximum intensity for months. The horror needs to breathe. The quiet sessions, the Home scenes where agents try to pretend they're normal people, the downtime where they process what happened, those aren't filler. They're where the horror actually lands. You need the contrast. You need to see what the characters are fighting for before you can feel what they're losing.
+*(I'm guilty of sending a form)*
 
-I also tried to run my own campaign, Echo Chamber, stitching together operations from A Night at the Opera, Black Sites, Dead Drops, and The Labyrinth into a single narrative about working inside a machine you don't understand. That campaign is on indefinite hiatus now. Life got in the way.
+I ran Impossible Landscapes for most of 2025. It's a surreal horror campaign that takes place across decades, where reality itself becomes unreliable and the King in Yellow bleeds through the cracks. That campaign taught me something about pacing darkness. You can't sustain maximum intensity for months. The horror needs to breathe. The quiet sessions, the Home scenes where agents try to pretend they're normal people, the downtime where they process what happened, those aren't filler. They're where the horror actually lands. You need the contrast. You need to see what the characters are fighting for before you can feel what they're losing. I didn't pay enough attention to facilitating these scenes, and you could feel it in the game I ran.
 
-But I also wrote Chrysalis for it, a homemade scenario about twins who transform into winged predators in their sleep and wake up with no memory of the killing. It was my attempt to write something that felt like Delta Green, that asked the kind of questions the game is built to ask: what do you do when the monsters are children who don't know they're monsters? How do you contain something that hasn't done anything wrong consciously, but will kill again? Is there a version of this that ends with anything other than tragedy?
+![](img/bug%20thing.png "Image Credit: Chrysalis Cover Art by Flore")
 
-Writing Chrysalis taught me that crafting dark material isn't about being cruel. It's about being honest. The scenario works because it doesn't let anyone off the hook. Not the twins. Not their parents. Not the institution that created them. And certainly not the Agents who have to decide what "containment" actually means.
+I also tried to run my own campaign, Echo Chamber, stitching together operations from A Night at the Opera, Black Sites, Dead Drops, and The Labyrinth into a single narrative about working inside a machine you don't understand. That campaign is sadly on indefinite hiatus now. Life got in the way.
+
+But I also wrote Chrysalis for it, a homemade scenario about twins who transform into winged predators in their sleep and wake up with no memory of the killing. It was my attempt to write something that felt like Delta Green. It's inspired by *A Victim of the Art* from Dead Drops, and it asks the kind of questions the game is built to ask: what do you do when the monsters are children who don't know they're monsters? How do you contain something that hasn't done anything wrong consciously, but will kill again? Is there a version of this that ends with anything other than tragedy?
+
+Writing Chrysalis taught me that crafting dark material is about being honest. The scenario works (in my opinion) because it doesn't let anyone off the hook. Not the twins. Not their parents. Not their classmates. Not the institution that created them. And certainly not the Agents who have to decide what "containment" actually means.
 
 Dark games forge the strongest bonds between players. I don't fully understand why. When you walk through something heavy together, when you sit in the silence after a session that went to a difficult place, you come out the other side closer. The game hurts, but the table holds.
 
 ## Why I'll keep chasing it
 
-I'm not done with dark games. I don't think I will be for a while.
+I'm not done with darker games. I don't think I will be for a while.
 
 It's not about the misery. It never was. It's about what's left after the fire goes through. The Handler's Guide says Delta Green is about the end of everything and how much of it you'll live to see. I think that's half the story. The other half is about what you do with the time you have. The Bonds you try to protect. The choices you make even when they don't matter. The way you look at your teammate after everything falls apart and decide to keep going anyway.
 
 In my post about collaborative storytelling, I wrote that the true essence of this hobby isn't in the rules or the mechanics or even the stories we write, it's in the shared act of creating something together. Dark games don't change that. They just raise the stakes. The stories hurt more, so the act of telling them together matters more.
 
-A while back I ended a long reflection on my TTRPG journey by telling myself to have fun. I still mean that. But I've learned that fun doesn't always look like victory. Sometimes it looks like surviving a session that left everyone quiet for a minute afterwards. Sometimes it looks like a player messaging you the next day to say they can't stop thinking about what happened. Sometimes it looks like looking across the table at your friends and knowing that you all just walked through something hard together, and you're all still here.
+A while back I ended a long reflection on my TTRPG journey by telling myself to have fun. I still mean that. But I've learned that fun doesn't always look like victory. 
+
+Sometimes it looks like surviving a session that left everyone quiet for a minute afterwards. 
+
+Sometimes it looks like a player messaging you the next day to say they can't stop thinking about what happened. 
+
+Sometimes it looks like looking across the table at your friends and knowing that you all just walked through something hard together, and you're all still here. 
+
+And sometimes it looks like dying, and knowing you tried your best.
 
 That's why I chase the dark. Not because I want to feel bad. Because I want to feel something real. And in a hobby built on imagination, that's the rarest thing there is.
