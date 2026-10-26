@@ -9,8 +9,15 @@
     margin-bottom: 0.5em
 }
 
+/* The brand is a wrapper (.brand) plus the text inside it (.brand-title,
+   which inherits). Size it once here and the text cannot compound.
+   2.1em = 42px, line-height 1.5 = 63px: the rendering the article pages had
+   before the noise was removed. Both page types must match; the wrapper is an
+   <h1> on the home page and a <div> elsewhere, and those two inherit different
+   line-heights from the theme (1.25 vs 1.5), so line-height is pinned here. */
 .sidebar-about .brand {
-    font-size: 1.4em;
+    font-size: 2.1em;
+    line-height: 1.5;
     font-family: "Fira Sans", sans-serif;
     font-weight: bold;
 }
