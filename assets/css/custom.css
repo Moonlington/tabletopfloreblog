@@ -9,8 +9,7 @@
     margin-bottom: 0.5em
 }
 
-.sidebar-about h1,
-.sidebar-about .brand-title {
+.sidebar-about .brand {
     font-size: 1.4em;
     font-family: "Fira Sans", sans-serif;
     font-weight: bold;
