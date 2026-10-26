@@ -8,6 +8,7 @@ tags:
   - cyberpunk
   - horror
   - storytelling
+images: ["/og/why-we-chase-the-dark.jpg"]
 ---
 
 I've been thinking about why my current TTRPG folder looks the way it does.

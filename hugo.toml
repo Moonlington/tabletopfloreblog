@@ -15,9 +15,11 @@ refLinksNotFoundURL = "/404"
     # Author metadata must live under params: a root-level [Author] table is not
     # visible to templates in current Hugo, which silently drops every author tag.
     author = { name = "Flore" }
-    brand = "Flore's Insignificant Thoughts"                      # name of your site - appears in the sidebar
+    brand = "Flore's Insignificant Thoughts"
+    tagline = "Musings about TTRPGs and Worldbuilding"   # shown under the brand; description below is for search                      # name of your site - appears in the sidebar
     brand_image = "/img/logo.png"    # path to the image shown in the sidebar
-    description = "Musings about TTRPGs and Worldbuilding" # Used as default meta description if not specified in front matter
+    # Used as the default meta description where a page sets none. 140 chars.
+    description = "Reviews, worldbuilding notes and campaign design from Flore, a Dutch Dungeon Master writing about Delta Green, D&D and the worlds he builds."
     dark_mode = true                      # optional - defaults to false
     image_zoom = true                     # medium-zoom, vendored in the theme
     favicon = "/android-chrome-512x512.png"             # path to favicon (defaults to favicon.png)
@@ -42,7 +44,7 @@ refLinksNotFoundURL = "/404"
     github_url = "https://github.com/Moonlington"
     # gitlab_url = "https://gitlab.com"
     # linkedin_url = "https://linkedin.com"
-    twitter_url = "https://twitter.com/FloreVEVO"
+    x_url = "https://x.com/FloreVEVO"
     # mastodon_url = "https://mastodon.social"
     # tryhackme_url = "https://tryhackme.com"
     # discord_url = "https://discord.com"
@@ -102,7 +104,7 @@ refLinksNotFoundURL = "/404"
     remark42_site_id = "tabletopflore"
 
     # NOTE: The following three params are optional and are used to create meta tags + enhance SEO.
-    og_image = "/img/ogimage.png"                       # path to social icon - front matter: image takes precedent, then og_image, then brand_url
+    og_image = "/img/ogimage.jpg"                       # 1200x630 social card; front matter images/image take precedence
                                           # this is also used in the schema output as well. Image is resized to max 1200x630
                                           # For this to work though og_image and brand_url must be a path inside the assets directory
                                           # e.g. /assets/images/site/og-image.png becomes images/site/og-image.png
