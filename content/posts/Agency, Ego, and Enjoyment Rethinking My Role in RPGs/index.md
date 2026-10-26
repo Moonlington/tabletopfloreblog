@@ -1,5 +1,6 @@
 ---
 title: "Agency, Ego, and Enjoyment: Rethinking My TTRPGs and Myself"
+description: "Graduating, leaving the hobby, coming back: what years of tabletop RPGs taught me about agency, ego, and actually enjoying the game."
 slug: "agency-ego-enjoyment"
 date: 2024-11-26
 tags:

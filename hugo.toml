@@ -1,6 +1,7 @@
 baseURL = "https://www.tabletopflore.com/"
-languageCode = "en-us"
+locale = "en-us"
 theme = "poison"
+enableRobotsTXT = true   # renders themes/poison/layouts/robots.txt
 pagination.pagerSize = 10
 pluralizelisttitles = false   # removes the automatically appended "s" on sidebar entries
 
@@ -10,14 +11,15 @@ refLinksNotFoundURL = "/404"
 # NOTE: If using Disqus as commenting engine, uncomment and configure this line
 # disqusShortname = "yourDisqusShortname"
 
-[Author]
-    name = "Flore"
-
 [params]
+    # Author metadata must live under params: a root-level [Author] table is not
+    # visible to templates in current Hugo, which silently drops every author tag.
+    author = { name = "Flore" }
     brand = "Flore's Insignificant Thoughts"                      # name of your site - appears in the sidebar
     brand_image = "/img/logo.png"    # path to the image shown in the sidebar
     description = "Musings about TTRPGs and Worldbuilding" # Used as default meta description if not specified in front matter
     dark_mode = true                      # optional - defaults to false
+    image_zoom = true                     # medium-zoom, vendored in the theme
     favicon = "/android-chrome-512x512.png"             # path to favicon (defaults to favicon.png)
 
     front_page_content = ["posts"]
@@ -121,6 +123,11 @@ refLinksNotFoundURL = "/404"
 
 [module]
   [[module.mounts]]
+    # NOTE: excludeFiles is deprecated (Hugo >=0.153) in favour of `files`, but no
+    # `files` glob combination excluded content/templates on 0.165 — each variant
+    # either mounted everything or nothing. The file is a vault template with an
+    # unparseable date, so keep the working form while Hugo is pinned; when it is
+    # dropped, move content/templates out of the content tree.
     excludeFiles = 'templates/*'
     source = 'content'
     target = 'content'
