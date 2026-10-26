@@ -79,7 +79,7 @@ refLinksNotFoundURL = "/404"
     content_bg_color = "#FAF9F6"    # default is #FAF9F6
     post_title_color = "#303030"    # default is #303030
     list_color = "#5a5a5a"          # default is #5a5a5a
-    link_color = "#f42020"          # default is #268bd2
+    link_color = "#d81a1a"          # 4.89:1 on paper; #f42020 was 3.93:1 and failed AA
     date_color = "#515151"          # default is #515151
     table_border_color = "#E5E5E5"  # default is #E5E5E5
     table_stripe_color = "#F9F9F9"  # default is #F9F9F9
@@ -95,7 +95,7 @@ refLinksNotFoundURL = "/404"
     table_stripe_color_dark = "#202020"     # default is #202020
     code_color = "#bf616a"                  # default is #bf616a
     code_background_color = "#E5E5E5"       # default is #E5E5E5
-    code_color_dark = "#ff7f7f"             # default is #ff7f7f
+    code_color_dark = "#ff8b8b"             # 4.82:1 on #393D47; #ff7f7f was 4.45:1 and failed AA
     code_background_color_dark = "#393D47"  # default is #393D47
 
     # NOTE: If using Remark42 as commenting engine, uncomment and configure these lines
