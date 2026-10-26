@@ -1,5 +1,6 @@
 ---
 title: "True Essence of Tabletop Roleplaying Games: Collaborative Storytelling"
+description: "What makes tabletop RPGs fun for me: shared authorship, the agreements we never write down, and why a good scene needs two authors."
 date: 2025-11-08
 draft: false
 tags:
