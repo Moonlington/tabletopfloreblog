@@ -1,3 +1,8 @@
+---
+title: "Flore's Insignificant Thoughts"
+description: "A Dutch Dungeon Master's notes on TTRPGs: Delta Green and D&D reviews, worldbuilding for Halcyon, and how these games actually play at the table."
+---
+
 # Welcome to Flore's Insignificant Thoughts
 
 This is a blog about worldbuilding and tabletop RPGs. It is a place for me to talk and discuss different aspects of the hobbies and give more insight into my decision making process when creating my world.
