@@ -1,6 +1,6 @@
 ---
 title: "Pantheons and Religions"
-description: "How deities and religions shape a world: what pantheons do for worldbuilding and at the table, as I design the gods of Ae'thar."
+description: "My first post here: what deities are even for, in worldbuilding and at the table, while I start putting Ae'thar's pantheon together."
 date: "2021-07-17"
 tags:
     - "ttrpg"

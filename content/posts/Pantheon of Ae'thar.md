@@ -1,6 +1,6 @@
 ---
 title: "Pantheon of Ae'thar"
-description: "Putting the theory to work: choosing a system for Ae'thar's pantheon, and deciding what I want the gods to actually do in play."
+description: "Taking the theory from my last post and trying it for real in Ae'thar, and working out what I want the gods to actually do once we play."
 date: "2021-07-31"
 tags:
     - "dnd5e"

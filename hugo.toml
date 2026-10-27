@@ -19,7 +19,7 @@ refLinksNotFoundURL = "/404"
     tagline = "Musings about TTRPGs and Worldbuilding"   # shown under the brand; description below is for search                      # name of your site - appears in the sidebar
     brand_image = "/img/logo.png"    # path to the image shown in the sidebar
     # Used as the default meta description where a page sets none. 140 chars.
-    description = "Reviews, worldbuilding notes and campaign design from Flore, a Dutch Dungeon Master writing about Delta Green, D&D and the worlds he builds."
+    description = "I play a lot of tabletop RPGs and write about them here."
     dark_mode = true                      # optional - defaults to false
     image_zoom = true                     # medium-zoom, vendored in the theme
     favicon = "/android-chrome-512x512.png"             # path to favicon (defaults to favicon.png)
@@ -104,6 +104,9 @@ refLinksNotFoundURL = "/404"
     remark42_site_id = "tabletopflore"
 
     # NOTE: The following three params are optional and are used to create meta tags + enhance SEO.
+    # Tag archives carry no unique copy and often duplicate each other; keep them
+    # crawlable and linked (noindex, follow) and out of the sitemap.
+    noindex_tags = true
     og_image = "/img/ogimage.png"                       # 1200x630 social card; front matter images/image take precedence
                                           # this is also used in the schema output as well. Image is resized to max 1200x630
                                           # For this to work though og_image and brand_url must be a path inside the assets directory

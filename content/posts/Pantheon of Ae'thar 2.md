@@ -1,6 +1,6 @@
 ---
 title: "Pantheon of Ae'thar: More Deities, Story, and Culture"
-description: "Fleshing out Ae'thar: minor deities for the gaps, the 'one good story', and how the religion would actually be practised day to day."
+description: "Second pass on Ae'thar's gods. The smaller deities I had skipped, the one good story, and what the religion looks like when it is practised."
 date: "2021-08-04"
 tags:
     - "dnd5e"

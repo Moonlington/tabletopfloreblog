@@ -2,4 +2,5 @@
 /content/.obsidian
 *.bat
 # local build output (hugo -d out)
-out/
+/out/
+/out-*/

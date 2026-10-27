@@ -1,6 +1,6 @@
 ---
 title: "Delta Green review: the RPG I never knew I wanted"
-description: "Why Delta Green became my go-to TTRPG: the dice, the bonds, the downward spiral, and what Impossible Landscapes did to my table."
+description: "A friend mentioned Delta Green in April 2025 and I have been consumed ever since. What did it, and what Impossible Landscapes did to my table."
 date: 2025-11-25
 draft: false
 tags:
