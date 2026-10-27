@@ -1,6 +1,6 @@
 ---
 title: "True Essence of Tabletop Roleplaying Games: Collaborative Storytelling"
-description: "A chat with a friend about what I actually find fun in this hobby, and why the story works best when nobody at the table owns it."
+description: "Why the story works best when nobody at the table owns it."
 date: 2025-11-08
 draft: false
 tags:

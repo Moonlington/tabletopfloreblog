@@ -2,7 +2,7 @@
 title: "About"
 date: 2021-11-24T12:01:39+01:00
 layout: single
-description: "Flore is a Dutch Dungeon Master and cybersecurity consultant writing about Delta Green, worldbuilding and running tabletop RPGs since 2018."
+description: "About me, Flore."
 ---
 ## Who am I?
 I'm Flore, 25 years old and I am from the Netherlands. I have a Bachelors Degree in Computer Science and work as a Cybersecurity Consultant. I've been playing Tabletop RPGs since 2018, most of that time as a DM. Back then I used to watch a lot of Critical Role, which was my initial inspiration for becoming a Game Master. I created the world of Halcyon, which is a fantasy world I am (semi) working on. 
