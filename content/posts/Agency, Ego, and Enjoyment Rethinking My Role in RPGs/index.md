@@ -1,6 +1,6 @@
 ---
 title: "Agency, Ego, and Enjoyment: Rethinking My TTRPGs and Myself"
-description: "I went quiet on this blog for a few years. This is the journey back into tabletop RPGs.
+description: "I went quiet on this blog for a few years. This is the journey back into tabletop RPGs."
 slug: "agency-ego-enjoyment"
 date: 2024-11-26
 tags:
